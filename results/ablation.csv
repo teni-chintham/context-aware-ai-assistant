@@ -1,0 +1,6 @@
+model,routing,memory,rag,memory_recall,rag_accuracy,hallucination_rate,citation_rate
+baseline,False,False,False,0.0,0.0,0.528,0.0
+A,True,False,False,0.0,0.0,0.139,0.0
+B,False,True,False,0.967,0.0,0.917,0.0
+C,False,False,True,0.0,0.889,0.083,0.139
+D,True,True,True,0.967,0.889,0.056,0.0

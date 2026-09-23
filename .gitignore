@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+memory.db
+models/*.joblib
+models/*.pkl
+results/upload_*
+.runlogs/
+*.tgz

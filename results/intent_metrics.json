@@ -1,0 +1,84 @@
+{
+  "n_total": 1350,
+  "n_train": 1080,
+  "n_test": 270,
+  "accuracy": 0.8444444444444444,
+  "macro_f1": 0.8440460122230393,
+  "per_class": {
+    "coding": {
+      "precision": 1.0,
+      "recall": 0.7222222222222222,
+      "f1-score": 0.8387096774193549,
+      "support": 54.0
+    },
+    "multimodal": {
+      "precision": 0.8852459016393442,
+      "recall": 1.0,
+      "f1-score": 0.9391304347826087,
+      "support": 54.0
+    },
+    "reasoning": {
+      "precision": 0.6956521739130435,
+      "recall": 0.8888888888888888,
+      "f1-score": 0.7804878048780488,
+      "support": 54.0
+    },
+    "search": {
+      "precision": 0.8125,
+      "recall": 0.7222222222222222,
+      "f1-score": 0.7647058823529411,
+      "support": 54.0
+    },
+    "writing": {
+      "precision": 0.9056603773584906,
+      "recall": 0.8888888888888888,
+      "f1-score": 0.897196261682243,
+      "support": 54.0
+    }
+  },
+  "labels": [
+    "coding",
+    "writing",
+    "search",
+    "reasoning",
+    "multimodal"
+  ],
+  "confusion_matrix": [
+    [
+      39,
+      5,
+      3,
+      6,
+      1
+    ],
+    [
+      0,
+      48,
+      0,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      39,
+      15,
+      0
+    ],
+    [
+      0,
+      0,
+      6,
+      48,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      54
+    ]
+  ],
+  "random_split_accuracy_leaky": 1.0
+}

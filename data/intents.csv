@@ -1,0 +1,1351 @@
+text,intent,group,split
+Help me write a eulogy for my grandfather,writing,writing-046,train
+Please what is the GDP of Japan please,search,search-044,train
+"Hey, what is the latest version of Python please",search,search-052,train
+Why is the Monty Hall answer counterintuitive to most people asap,reasoning,reasoning-056,train
+"Two fathers and two sons go fishing and catch three fish, one each, how",reasoning,reasoning-037,train
+I need help: write a blog post titled ten lessons from my first startup,writing,writing-005,test
+Can you write a SQL query to get the top 5 customers by total order value please,coding,coding-079,train
+What is the total on this restaurant bill image,multimodal,multimodal-002,test
+"Hey, fix the indentation error in this code block",coding,coding-031,train
+Explain the logic behind the birthday paradox,reasoning,reasoning-008,test
+"Hey, if I invest 10000 at 8 percent compounded annually, how much after 5 years?",reasoning,reasoning-047,train
+Quick one: has the new Tamil Nadu EV policy been announced yet,search,search-070,train
+"I need help: a snail climbs 3 metres a day and slips 2 at night, how long to climb a 10 metre wall",reasoning,reasoning-018,train
+Could you look at this outfit photo and rate it out of ten,multimodal,multimodal-020,train
+Draft a toast for my parents' anniversary dinner,writing,writing-036,train
+I need help: write a limerick about a cat who codes asap,writing,writing-048,train
+Find recent papers on retrieval-augmented generation?,search,search-061,train
+I need help: what is the time complexity of this recursive function thanks,coding,coding-021,train
+Can you what is the price of gold today in Hyderabad?,search,search-051,train
+I need help: draft a resignation letter that keeps things friendly.,writing,writing-078,train
+"Hey, what is the sum of the interior angles of a hexagon and why please",reasoning,reasoning-087,train
+I need help: what does the 'static' keyword do in C++,coding,coding-016,test
+Explain why 0.999 repeating equals 1 asap,reasoning,reasoning-046,train
+Can you how to use useState with an array of objects.,coding,coding-026,train
+Could you describe the outfit in this photo and suggest matching shoes please,multimodal,multimodal-065,train
+Can you how many times do the hands of a clock overlap in 24 hours?,reasoning,reasoning-067,train
+Is the person in this image wearing a helmet?,multimodal,multimodal-051,train
+Draft an agenda and opening remarks for our annual meeting?,writing,writing-014,test
+Please write a story in second person about waking up on Mars.,writing,writing-070,train
+Please make this paragraph more concise without losing meaning,writing,writing-041,train
+I need help: read the text in this scanned receipt and total it asap,multimodal,multimodal-059,train
+Write a scene where two old friends meet after ten years,writing,writing-064,train
+Quick one: what is wrong with the plant in this photo,multimodal,multimodal-015,test
+Think about whether a company should open source its core product,reasoning,reasoning-063,train
+Can you explain Occam's razor with an example,reasoning,reasoning-038,train
+"Hey, read the ingredients list from this photo of the packet?",multimodal,multimodal-048,train
+"If 3 workers build a wall in 6 days, how long do 9 workers take",reasoning,reasoning-073,train
+Can you what is the difference between a process and a thread in an OS asap,coding,coding-054,train
+How would you settle a dispute between two co-founders about equity,reasoning,reasoning-049,train
+What does the label on this medicine bottle photo say?,multimodal,multimodal-062,train
+Please reason out whether a ball thrown upward has zero acceleration at the top,reasoning,reasoning-043,train
+"Hey, how tall is Mount Kilimanjaro asap",search,search-014,test
+Could you when was the Taj Mahal completed please,search,search-033,train
+"Two dice are rolled, what is the probability the sum is 7",reasoning,reasoning-034,train
+I need help: what time zone is Dubai in,search,search-020,train
+"Quick one: fix my CSS, the navbar overlaps the content on mobile.",coding,coding-062,train
+Please when does the IPL 2027 season start,search,search-079,train
+Explain Occam's razor with an example asap,reasoning,reasoning-038,train
+Could you write a SQL query to get the top 5 customers by total order value?,coding,coding-079,train
+I need help: what is the current repo rate set by the RBI,search,search-071,train
+Write a description for a YouTube video about budget travel thanks,writing,writing-068,train
+Write a shell one-liner to count lines in all Python files,coding,coding-050,train
+Write a regex that matches Indian phone numbers,coding,coding-018,train
+Quick one: where is the 2028 Olympics being held thanks,search,search-049,train
+Write an Instagram caption for my graduation photo,writing,writing-057,train
+Explain Occam's razor with an example,reasoning,reasoning-038,train
+"Please my Streamlit app reruns the whole script on every click, how to cache please",coding,coding-041,train
+Quick one: find the typo in this screenshot of my slide,multimodal,multimodal-087,train
+I need help: if you have a 3 litre and a 5 litre jug how do you measure exactly 4 litres.,reasoning,reasoning-064,train
+Quick one: my React state update is not re-rendering the component please,coding,coding-039,train
+Who is the richest person in the world right now,search,search-081,train
+Quick one: write a cover letter for a marketing role at a fashion brand?,writing,writing-087,train
+What is the national animal of Australia.,search,search-001,test
+What font is used in this image.,multimodal,multimodal-001,test
+"Can you should I take the job with higher pay or the one with better learning, think it through please",reasoning,reasoning-075,train
+What is the time complexity of this recursive function,coding,coding-021,train
+"Hey, what is the average temperature in Delhi in May thanks",search,search-025,train
+Can you rewrite this essay introduction to be more engaging,writing,writing-082,train
+Could you draft an apology email for missing the client meeting,writing,writing-040,train
+How many times do the hands of a clock overlap in 24 hours,reasoning,reasoning-067,train
+Could you what is written on the t-shirt in this picture asap,multimodal,multimodal-049,train
+Create a REST endpoint that returns JSON in FastAPI.,coding,coding-055,train
+What is the remainder when 2 to the power 10 is divided by 7,reasoning,reasoning-066,train
+I need help: describe the colours used in this poster?,multimodal,multimodal-086,train
+What is the latest iPhone model available in India,search,search-034,train
+"Hey, what is the total on this restaurant bill image thanks",multimodal,multimodal-002,test
+What does the pie chart in this image show as the largest slice,multimodal,multimodal-050,train
+Please look at this MRI scan image and describe what you see please,multimodal,multimodal-038,train
+"I need help: which is a better deal, 30 percent off or buy two get one free thanks",reasoning,reasoning-071,train
+"Hey, read the ingredients list from this photo of the packet asap",multimodal,multimodal-048,train
+"A snail climbs 3 metres a day and slips 2 at night, how long to climb a 10 metre wall",reasoning,reasoning-018,train
+Create a LinkedIn post announcing my new job,writing,writing-042,train
+Could you how do I deploy a Node app on an Ubuntu VPS with pm2,coding,coding-048,train
+"I need help: two trains leave stations 300 km apart at 60 and 90 km/h toward each other, when do they meet asap",reasoning,reasoning-036,train
+Read the ingredients list from this photo of the packet,multimodal,multimodal-048,train
+Detect the objects in this street photo,multimodal,multimodal-067,train
+Which of these two room photos looks tidier,multimodal,multimodal-040,train
+I need help: write a Ruby method that counts word frequency in a string asap,coding,coding-013,test
+"Hey, write an essay arguing that homework should be abolished please",writing,writing-045,train
+Please how to serialize a dataclass to JSON in Python,coding,coding-070,train
+Find the sum of all integers from 1 to 200.,reasoning,reasoning-080,train
+Could you write a Go HTTP server that returns hello world,coding,coding-063,train
+I need help: draft an apology email for missing the client meeting,writing,writing-040,train
+Could you write a Ruby method that counts word frequency in a string,coding,coding-013,test
+Draft a memo announcing the new work from home policy,writing,writing-027,train
+Write a motivational message for my team before the hackathon,writing,writing-074,train
+Write a long-form explainer on how vaccines work for a general audience,writing,writing-069,train
+Can you how do I connect to MongoDB from Node.js.,coding,coding-023,train
+How do I read a CSV file into a pandas DataFrame,coding,coding-035,train
+Work out whether it's cheaper to take a cab daily or buy a bike over a year,reasoning,reasoning-031,train
+What number when doubled and added to 5 gives 19,reasoning,reasoning-026,train
+Quick one: convert this callback code to promises asap,coding,coding-014,test
+I need help: write an FAQ section for our online course website please,writing,writing-084,train
+Can you what is the price on this shelf tag image please,multimodal,multimodal-076,train
+Read the handwriting in this note and type it out.,multimodal,multimodal-081,train
+Write a condolence message for a friend who lost her father,writing,writing-043,train
+Draft a LinkedIn recommendation for my former manager thanks,writing,writing-010,test
+Quick one: what is the fastest land animal,search,search-053,train
+I need help: write an essay arguing that homework should be abolished?,writing,writing-045,train
+Please write a case study about how our team reduced churn,writing,writing-052,train
+Can you how do I center a div with flexbox please,coding,coding-027,train
+Quick one: summarize this article in three paragraphs for a newsletter,writing,writing-077,train
+Please debug this segmentation fault in my C program thanks,coding,coding-084,train
+Reason about whether P equals NP matters for everyday software asap,reasoning,reasoning-072,train
+Latest updates on the Chandrayaan mission,search,search-042,train
+"Hey, what year did India win its first cricket World Cup",search,search-008,test
+Debug this segmentation fault in my C program,coding,coding-084,train
+What happened in the tech industry this week,search,search-010,test
+"Hey, write a story in second person about waking up on Mars",writing,writing-070,train
+"Hey, how do I set up a virtual environment with venv",coding,coding-036,train
+I need help: give me the latest unemployment statistics for the US please,search,search-028,train
+Write a Python decorator that logs function execution time,coding,coding-059,train
+Look at this sketch and tell me what building it is,multimodal,multimodal-008,test
+Can you are there any train strikes in Mumbai today?,search,search-003,test
+Analyze this graph image and summarize the key finding,multimodal,multimodal-042,train
+"Hey, fix this Python TypeError: unsupported operand type(s) for +: 'int' and 'str'",coding,coding-012,test
+Please who is the founder of Infosys asap,search,search-026,train
+Who won the Oscar for best picture this year.,search,search-032,train
+How do I read a CSV file into a pandas DataFrame asap,coding,coding-035,train
+Check this screenshot of my code for bugs,multimodal,multimodal-080,train
+Please describe the body language of the people in this meeting photo?,multimodal,multimodal-023,train
+Write unit tests for this login function using pytest,coding,coding-075,train
+"Hey, what ingredients can you see in this fridge photo",multimodal,multimodal-056,train
+"Hey, what ingredients can you see in this fridge photo thanks",multimodal,multimodal-056,train
+Which of these two room photos looks tidier asap,multimodal,multimodal-040,train
+Which company acquired Figma,search,search-006,test
+Could you how do I catch exceptions in Python and log them,coding,coding-044,train
+Could you how do I connect to MongoDB from Node.js,coding,coding-023,train
+I need help: identify the landmark in this photo?,multimodal,multimodal-047,train
+Rewrite this essay introduction to be more engaging,writing,writing-082,train
+I need help: translate the menu in this image to English.,multimodal,multimodal-060,train
+Please what is the score shown on this scoreboard picture thanks,multimodal,multimodal-054,train
+"Hey, where is the 2028 Olympics being held please",search,search-049,train
+Turn these bullet points into a well-structured report?,writing,writing-017,test
+I need help: what is the sum of the interior angles of a hexagon and why,reasoning,reasoning-087,train
+Can you write a case study about how our team reduced churn thanks,writing,writing-052,train
+Can you write a podcast episode description about productivity habits,writing,writing-079,train
+Please who won the Formula 1 race last weekend,search,search-063,train
+Tell me what the graph in the screenshot is measuring please,multimodal,multimodal-043,train
+Quick one: is the Bangalore metro purple line open on Sundays please,search,search-083,train
+Could you write a Go HTTP server that returns hello world?,coding,coding-063,train
+"Is it rational to buy lottery tickets, argue both sides",reasoning,reasoning-041,train
+"Hey, write a Java program to find duplicate elements in an array",coding,coding-087,train
+Draft a professional out-of-office reply,writing,writing-066,train
+Could you how do I mock an API call in Jest thanks,coding,coding-028,train
+Write an FAQ section for our online course website,writing,writing-084,train
+"Hey, a bat and a ball cost 1.10 in total, the bat costs one more than the ball, what does the ball cost please",reasoning,reasoning-085,train
+"Hey, explain step by step why the sky is blue asap",reasoning,reasoning-021,train
+What is the melting point of gold,search,search-060,train
+"Hey, write a regex that matches Indian phone numbers",coding,coding-018,train
+When is Diwali this year,search,search-082,train
+Please write a newsletter intro for our monthly community update?,writing,writing-071,train
+Could you explain the meme in this image?,multimodal,multimodal-069,train
+Could you turn this technical documentation into a friendly user guide asap,writing,writing-025,train
+I need help: what is the weather in Chennai tomorrow thanks,search,search-037,train
+Write a newsletter intro for our monthly community update please,writing,writing-071,train
+Explain why dividing by zero is undefined thanks,reasoning,reasoning-013,test
+Quick one: explain the logic behind the birthday paradox,reasoning,reasoning-008,test
+I need help: what is the graph in this image plotting on the y axis asap,multimodal,multimodal-074,train
+"Two fathers and two sons go fishing and catch three fish, one each, how thanks",reasoning,reasoning-037,train
+Set up a GitHub Actions workflow that runs pytest on push,coding,coding-033,train
+"Hey, analyze this graph image and summarize the key finding.",multimodal,multimodal-042,train
+Explain how a hash map works internally,coding,coding-047,train
+Write a personal statement for a masters application,writing,writing-007,test
+Compose a rap verse about debugging at 3 am please,writing,writing-055,train
+Can you evaluate whether it is worth doing a masters right after undergrad thanks,reasoning,reasoning-014,test
+I need help: identify the coin in this image and its country asap,multimodal,multimodal-014,test
+Quick one: read the temperature from this thermostat photo please,multimodal,multimodal-032,train
+Quick one: which is the largest desert in the world?,search,search-009,test
+Quick one: write a 500-word reflection on what I learned this semester.,writing,writing-063,train
+Write a story in second person about waking up on Mars,writing,writing-070,train
+Write a motivational message for my team before the hackathon?,writing,writing-074,train
+Could you what is a race condition and how do I avoid it with mutexes,coding,coding-043,train
+How many bones are in the human body,search,search-078,train
+Reason out whether a ball thrown upward has zero acceleration at the top,reasoning,reasoning-043,train
+Please write the introduction chapter for my thesis on renewable energy please,writing,writing-089,train
+Quick one: explain what this lambda expression does,coding,coding-037,train
+How to schedule a cron job that runs every 15 minutes,coding,coding-071,train
+Please what is the animal in this blurry night photo please,multimodal,multimodal-000,test
+When does daylight saving time end in the US this year asap,search,search-050,train
+"What is the flaw in this argument: all birds fly, penguins are birds, so penguins fly",reasoning,reasoning-070,train
+Please tell me what the graph in the screenshot is measuring,multimodal,multimodal-043,train
+What is the fastest land animal,search,search-053,train
+I need help: is the wiring in this photo done safely,multimodal,multimodal-028,train
+"Can you if I flip a fair coin 10 times, what is the expected number of heads",reasoning,reasoning-061,train
+What is the deepest point in the ocean,search,search-038,train
+Could you write a shell one-liner to count lines in all Python files thanks,coding,coding-050,train
+What is the remainder when 2 to the power 10 is divided by 7.,reasoning,reasoning-066,train
+How many moons does Jupiter have thanks,search,search-087,train
+"Hey, identify the bird in this image asap",multimodal,multimodal-084,train
+Compose an email declining a job offer politely,writing,writing-012,test
+Could you how do I prevent SQL injection in my login form asap,coding,coding-042,train
+Can you how do I read a CSV file into a pandas DataFrame thanks,coding,coding-035,train
+Please draft a cover letter for a software engineering internship?,writing,writing-054,train
+Look at this screenshot and tell me which button to click next please,multimodal,multimodal-089,train
+Can you who is the president of France.,search,search-077,train
+Quick one: write an op-ed on the future of remote work please,writing,writing-020,train
+Can you how many moons does Jupiter have,search,search-087,train
+When does daylight saving time end in the US this year,search,search-050,train
+Explain the reasoning behind the prisoner's dilemma,reasoning,reasoning-082,train
+Quick one: which cable in this photo goes to the router,multimodal,multimodal-004,test
+Describe what is in this image,multimodal,multimodal-039,train
+"Optimize this nested loop, it is O(n^2) thanks",coding,coding-056,train
+Please explain step by step why the sky is blue asap,reasoning,reasoning-021,train
+Please suggest a caption for this sunset picture asap,multimodal,multimodal-029,train
+I need help: find the sum of all integers from 1 to 200 asap,reasoning,reasoning-080,train
+Can you create a script for a two-minute YouTube intro video,writing,writing-028,train
+Quick one: what is the current status of the Bangalore suburban rail project please,search,search-086,train
+Quick one: describe the architecture style of the building in the photo asap,multimodal,multimodal-022,train
+Quick one: what is the Sensex at right now.,search,search-031,train
+Please write a blog post titled ten lessons from my first startup thanks,writing,writing-005,test
+Please write a short story about a lighthouse keeper who finds a message in a bottle?,writing,writing-083,train
+Can you add error handling to this fetch call.,coding,coding-032,train
+Write a testimonial for my yoga instructor,writing,writing-061,train
+Quick one: who is the CEO of OpenAI right now,search,search-068,train
+Can you who is the richest person in the world right now,search,search-081,train
+"Quick one: what is the flaw in this argument: all birds fly, penguins are birds, so penguins fly",reasoning,reasoning-070,train
+Could you my git push is rejected because the remote contains work I do not have please,coding,coding-051,train
+Quick one: extract the phone number from this business card photo.,multimodal,multimodal-083,train
+Can you help me write vows for my wedding please,writing,writing-053,train
+"Hey, what happened at the latest Apple WWDC keynote.",search,search-022,train
+Is this photo of a bridge showing any structural damage,multimodal,multimodal-003,test
+Write a paragraph describing autumn in the mountains.,writing,writing-009,test
+Can you which planet has the most moons,search,search-054,train
+Write a 500-word reflection on what I learned this semester please,writing,writing-063,train
+Quick one: look at this UI mockup and suggest improvements,multimodal,multimodal-019,train
+I need help: what does the pie chart in this image show as the largest slice?,multimodal,multimodal-050,train
+Look at this outfit photo and rate it out of ten,multimodal,multimodal-020,train
+"Can you calculate the area of a triangle with sides 5, 6 and 7",reasoning,reasoning-006,test
+"Quick one: a man walks 3 km north then 4 km east, how far is he from the start",reasoning,reasoning-033,train
+What is the make and model of the bike in this image?,multimodal,multimodal-025,train
+Can you what is the height of the Statue of Unity,search,search-030,train
+Quick one: write a Dockerfile for a Django project,coding,coding-066,train
+Quick one: write a GraphQL schema for a blog with posts and comments,coding,coding-052,train
+"My Flask app returns 404 for every route, what is wrong?",coding,coding-024,train
+I need help: what is the current world record for the 100m sprint?,search,search-074,train
+Quick one: compare these two chart screenshots and tell me which trend is stronger,multimodal,multimodal-045,train
+How do I set up a virtual environment with venv,coding,coding-036,train
+Can you what is the current status of the Bangalore suburban rail project asap,search,search-086,train
+Can you look at this screenshot and tell me which button to click next,multimodal,multimodal-089,train
+"Hey, draft the about-us page for a startup that sells organic tea",writing,writing-086,train
+"Please is this syllogism valid: some cats are black, all black things are dark, so some cats are dark?",reasoning,reasoning-052,train
+How do I prevent SQL injection in my login form,coding,coding-042,train
+Could you convert this screenshot of a table into markdown,multimodal,multimodal-070,train
+Can you what are the symptoms of dengue fever,search,search-039,train
+Look up the ISBN of the book Sapiens,search,search-023,train
+Please convert this Python 2 code to Python 3 thanks,coding,coding-074,train
+"If a shirt costs 800 after a 20 percent discount, what was the original price",reasoning,reasoning-015,test
+"Two trains leave stations 300 km apart at 60 and 90 km/h toward each other, when do they meet",reasoning,reasoning-036,train
+Which of these two logo designs looks more professional,multimodal,multimodal-010,test
+Please write an FAQ section for our online course website please,writing,writing-084,train
+Can you is this photo of a bridge showing any structural damage.,multimodal,multimodal-003,test
+Write a GraphQL schema for a blog with posts and comments,coding,coding-052,train
+What is the sum of the interior angles of a hexagon and why,reasoning,reasoning-087,train
+Can you what is the speed of light in km per second?,search,search-021,train
+Which team won the most recent Champions League final?,search,search-045,train
+Create a script for a two-minute YouTube intro video,writing,writing-028,train
+How many moons does Jupiter have,search,search-087,train
+"Hey, how many chairs are visible in this room photo.",multimodal,multimodal-061,train
+What is a race condition and how do I avoid it with mutexes,coding,coding-043,train
+"I need help: if today is Tuesday, what day is it 100 days from now",reasoning,reasoning-030,train
+Reason about whether P equals NP matters for everyday software,reasoning,reasoning-072,train
+I need help: what is the animal in this blurry night photo,multimodal,multimodal-000,test
+What is wrong with this proof that 1 equals 2,reasoning,reasoning-019,train
+Look at this MRI scan image and describe what you see,multimodal,multimodal-038,train
+"A bat and a ball cost 1.10 in total, the bat costs one more than the ball, what does the ball cost",reasoning,reasoning-085,train
+Can you why does my async function return a Promise instead of the value?,coding,coding-083,train
+What is the chemical formula of caffeine,search,search-084,train
+Explain this stack trace from Spring Boot,coding,coding-022,train
+How to handle CORS errors in an Express server,coding,coding-001,test
+"Should our startup hire a senior engineer or two juniors, think through the trade-offs",reasoning,reasoning-010,test
+Look up the ISBN of the book Sapiens asap,search,search-023,train
+Which teams are in the IPL final this season thanks,search,search-035,train
+Can you write an Instagram caption for my graduation photo,writing,writing-057,train
+Convert this for loop into a list comprehension please,coding,coding-076,train
+Solve the system x plus y equals 10 and x minus y equals 4 thanks,reasoning,reasoning-017,test
+Convert this for loop into a list comprehension,coding,coding-076,train
+"Hey, write a Swift function that sorts an array of structs by date please",coding,coding-049,train
+"Hey, why is my Docker container exiting immediately",coding,coding-067,train
+I need help: explain why 0.999 repeating equals 1 asap,reasoning,reasoning-046,train
+How to make a Python script executable from the terminal,coding,coding-015,test
+Could you what is the total on this restaurant bill image,multimodal,multimodal-002,test
+"Could you if a car travels 150 km in 2.5 hours, what is the average speed asap",reasoning,reasoning-029,train
+"I need help: what is the difference between let, const and var?",coding,coding-088,train
+Could you what is the fastest land animal,search,search-053,train
+"Hey, write a function that reverses a linked list in Java",coding,coding-060,train
+"Could you should our startup hire a senior engineer or two juniors, think through the trade-offs",reasoning,reasoning-010,test
+Implement Dijkstra's algorithm in C++.,coding,coding-017,test
+Could you latest updates on the Chandrayaan mission,search,search-042,train
+Can you explain the reasoning behind the prisoner's dilemma,reasoning,reasoning-082,train
+Draft a press release for our app launch.,writing,writing-013,test
+Turn this photographed math problem into text and solve it please,multimodal,multimodal-041,train
+I need help: write a Python generator that yields Fibonacci numbers thanks,coding,coding-020,train
+Please reason about whether P equals NP matters for everyday software.,reasoning,reasoning-072,train
+Please write a complaint letter to the airline about lost luggage,writing,writing-047,train
+Why is my Python virtual environment not activating on Windows,coding,coding-065,train
+Derive the quadratic formula from completing the square thanks,reasoning,reasoning-081,train
+Write a formal invitation for our college tech fest,writing,writing-050,train
+Describe the body language of the people in this meeting photo,multimodal,multimodal-023,train
+Look up the ISBN of the book Sapiens?,search,search-023,train
+How to use useState with an array of objects,coding,coding-026,train
+What is the make and model of the bike in this image,multimodal,multimodal-025,train
+I need help: write song lyrics about leaving home for college thanks,writing,writing-037,train
+Analyze this X-ray image for anything unusual.,multimodal,multimodal-077,train
+I need help: look up the opening hours of the Bangalore Palace,search,search-067,train
+Could you identify the mountain range in this landscape photo please,multimodal,multimodal-057,train
+Quick one: is it logically valid to conclude it rained because the ground is wet please,reasoning,reasoning-050,train
+When is the next solar eclipse visible from India,search,search-002,test
+What emotion is the person in this picture showing please,multimodal,multimodal-013,test
+"Hey, what species of fish is in this aquarium picture",multimodal,multimodal-066,train
+Are these two images of the same person please,multimodal,multimodal-007,test
+"My Flask app returns 404 for every route, what is wrong",coding,coding-024,train
+I need help: why is the Monty Hall answer counterintuitive to most people please,reasoning,reasoning-056,train
+Can you write a personal statement for a masters application please,writing,writing-007,test
+"Hey, write a Python script to scrape titles from a webpage with BeautifulSoup",coding,coding-081,train
+I need help: draft a LinkedIn recommendation for my former manager asap,writing,writing-010,test
+Estimate the number of cars in Bangalore with reasoning thanks,reasoning,reasoning-068,train
+Draft a cover letter for a software engineering internship,writing,writing-054,train
+Estimate how many piano tuners there are in Chicago please,reasoning,reasoning-007,test
+I need help: what is the minimum number of colours needed to colour any map thanks,reasoning,reasoning-002,test
+Compose a thank-you note to my mentor,writing,writing-051,train
+What is the height of the Statue of Unity,search,search-030,train
+What is written on the t-shirt in this picture,multimodal,multimodal-049,train
+What is the minimum number of colours needed to colour any map,reasoning,reasoning-002,test
+Write a diary entry from the perspective of a street dog asap,writing,writing-067,train
+"I need help: should our startup hire a senior engineer or two juniors, think through the trade-offs",reasoning,reasoning-010,test
+What font is used in this image,multimodal,multimodal-001,test
+Draft an agenda and opening remarks for our annual meeting please,writing,writing-014,test
+Summarize the infographic in this picture?,multimodal,multimodal-063,train
+Prove that the square root of 2 is irrational,reasoning,reasoning-022,train
+Could you which piece is winning in this chessboard photo,multimodal,multimodal-017,test
+I need help: solve for x: 3x + 7 = 2x - 5?,reasoning,reasoning-042,train
+Please what is the current inflation rate in India?,search,search-076,train
+Work out whether it's cheaper to take a cab daily or buy a bike over a year asap,reasoning,reasoning-031,train
+"Hey, what font is used in this image",multimodal,multimodal-001,test
+Please write a description for a YouTube video about budget travel please,writing,writing-068,train
+Please look at the picture and tell me what time the clock shows,multimodal,multimodal-034,train
+Quick one: compose a farewell message for a colleague who is leaving,writing,writing-056,train
+Write a persuasive speech on why students should learn to code,writing,writing-011,test
+What color is the car in the picture,multimodal,multimodal-088,train
+Please estimate how many tennis balls fit in a bus,reasoning,reasoning-032,train
+I need help: compare the pros and cons of renting versus buying a house?,reasoning,reasoning-051,train
+Could you what is wrong with the plant in this photo,multimodal,multimodal-015,test
+Can you how many handshakes happen if 12 people each shake hands once thanks,reasoning,reasoning-025,train
+Write a C function to check if a number is prime,coding,coding-000,test
+"Hey, write a poem about monsoon in Hyderabad",writing,writing-008,test
+Why can't you divide a cake fairly among three people by cutting it once,reasoning,reasoning-060,train
+"Hey, how to parse JSON in Rust with serde",coding,coding-053,train
+"Hey, what is the latest iPhone model available in India thanks",search,search-034,train
+I need help: write a bedtime story for a five year old about a brave turtle,writing,writing-003,test
+I need help: how would you decide between two equally qualified job candidates,reasoning,reasoning-065,train
+What are the visa requirements for Indians travelling to Japan asap,search,search-040,train
+How many players are on a kabaddi team asap,search,search-062,train
+Can you what is the atomic number of tungsten,search,search-043,train
+"Hey, write the introduction chapter for my thesis on renewable energy",writing,writing-089,train
+Quick one: draft a toast for my parents' anniversary dinner thanks,writing,writing-036,train
+Please what is the remainder when 2 to the power 10 is divided by 7,reasoning,reasoning-066,train
+Explain why dividing by zero is undefined,reasoning,reasoning-013,test
+Is the person in this image wearing a helmet,multimodal,multimodal-051,train
+Quick one: identify the coin in this image and its country asap,multimodal,multimodal-014,test
+Could you is the wiring in this photo done safely,multimodal,multimodal-028,train
+"Hey, reason step by step: is it better to pay off debt or invest first please",reasoning,reasoning-001,test
+Please explain the difference between an interface and an abstract class.,coding,coding-019,train
+Compare the pros and cons of renting versus buying a house,reasoning,reasoning-051,train
+Please who invented the telephone please,search,search-046,train
+"Hey, is it rational to buy lottery tickets, argue both sides",reasoning,reasoning-041,train
+How do I implement pagination in a Django REST API please,coding,coding-064,train
+"Hey, draft a sponsorship request letter for our robotics club",writing,writing-034,train
+Draft an agenda and opening remarks for our annual meeting,writing,writing-014,test
+Create a script for a two-minute YouTube intro video please,writing,writing-028,train
+Could you what is a race condition and how do I avoid it with mutexes asap,coding,coding-043,train
+I need help: compose a farewell message for a colleague who is leaving asap,writing,writing-056,train
+What is the tallest building in the world right now,search,search-056,train
+"If a train catches up to another train, how do I set up the equations?",reasoning,reasoning-076,train
+"Hey, write a C function to check if a number is prime.",coding,coding-000,test
+Draft meeting minutes from these notes please,writing,writing-018,train
+Could you what is the latest Android version called,search,search-073,train
+Quick one: latest news about Tesla stock,search,search-013,test
+How would you decide between two equally qualified job candidates,reasoning,reasoning-065,train
+Write a Dockerfile for a Django project,coding,coding-066,train
+I need help: what is the probability of getting two heads in three coin tosses please,reasoning,reasoning-020,train
+Please which is the better strategy in rock paper scissors against a predictable opponent,reasoning,reasoning-048,train
+Please rewrite this essay introduction to be more engaging?,writing,writing-082,train
+Please what is the national animal of Australia,search,search-001,test
+What are the current RBI repo rate figures,search,search-055,train
+Reason step by step: is it better to pay off debt or invest first?,reasoning,reasoning-001,test
+Could you what is the diagram in this picture showing please,multimodal,multimodal-085,train
+Read the text in this scanned receipt and total it,multimodal,multimodal-059,train
+Could you translate the menu in this image to English,multimodal,multimodal-060,train
+"Hey, work out whether it's cheaper to take a cab daily or buy a bike over a year",reasoning,reasoning-031,train
+I need help: how many states does India have.,search,search-064,train
+Can you write a diary entry from the perspective of a street dog asap,writing,writing-067,train
+"Optimize this nested loop, it is O(n^2)?",coding,coding-056,train
+"Hey, who is the current chief minister of Karnataka?",search,search-019,train
+"Hey, think through whether it makes sense to buy an electric scooter for a 5 km commute",reasoning,reasoning-086,train
+Please rewrite this paragraph to sound more formal?,writing,writing-002,test
+"Hey, what is the graph in this image plotting on the y axis please",multimodal,multimodal-074,train
+Read the handwriting in this note and type it out,multimodal,multimodal-081,train
+Could you when is the next solar eclipse visible from India,search,search-002,test
+What species of fish is in this aquarium picture,multimodal,multimodal-066,train
+"Could you if a train catches up to another train, how do I set up the equations thanks",reasoning,reasoning-076,train
+Quick one: latest updates on the Chandrayaan mission asap,search,search-042,train
+I need help: how do I make an HTTP POST request with requests in Python,coding,coding-045,train
+"Hey, implement binary search in Go thanks",coding,coding-061,train
+Which fruit in this basket photo looks ripe,multimodal,multimodal-068,train
+Write a book blurb for a fantasy novel about a librarian mage?,writing,writing-044,train
+How far is the moon from Earth,search,search-011,test
+Describe the colours used in this poster,multimodal,multimodal-086,train
+"Hey, i have 3 red and 5 blue socks in a drawer, how many must I pull to guarantee a pair",reasoning,reasoning-054,train
+Can you set up a GitHub Actions workflow that runs pytest on push thanks,coding,coding-033,train
+Look at this UI mockup and suggest improvements,multimodal,multimodal-019,train
+Write a migration to add an index on the email column asap,coding,coding-011,test
+Quick one: how many diagonals does a decagon have?,reasoning,reasoning-059,train
+Quick one: help me decide between studying abroad and staying in India for my degree.,reasoning,reasoning-023,train
+What is the currency of Vietnam,search,search-059,train
+Draft the about-us page for a startup that sells organic tea,writing,writing-086,train
+Write a 1000-word essay on climate feedback loops,writing,writing-030,train
+Write a cover letter for a marketing role at a fashion brand,writing,writing-087,train
+Could you fix this Python TypeError: unsupported operand type(s) for +: 'int' and 'str'.,coding,coding-012,test
+Can you explain step by step how to decide which sorting algorithm to use thanks,reasoning,reasoning-009,test
+I need help: write a funny best man speech.,writing,writing-058,train
+Could you which company acquired Figma,search,search-006,test
+What is the weather in Chennai tomorrow,search,search-037,train
+Write a Ruby method that counts word frequency in a string,coding,coding-013,test
+Who scored the most runs in the last cricket World Cup?,search,search-085,train
+Help me write vows for my wedding,writing,writing-053,train
+Can you extract the table from this screenshot into CSV,multimodal,multimodal-030,train
+"Hey, write a welcome email sequence for new subscribers?",writing,writing-000,test
+Write a podcast episode description about productivity habits,writing,writing-079,train
+If you have a 3 litre and a 5 litre jug how do you measure exactly 4 litres.,reasoning,reasoning-064,train
+Who is the richest person in the world right now?,search,search-081,train
+Are these two images of the same person?,multimodal,multimodal-007,test
+I need help: convert this photo of my notes into a bullet list?,multimodal,multimodal-044,train
+What is the GDP of Japan,search,search-044,train
+Rewrite this paragraph to sound more formal,writing,writing-002,test
+Can you expand this outline into a full article on sleep hygiene thanks,writing,writing-088,train
+How would you decide between two equally qualified job candidates.,reasoning,reasoning-065,train
+Can you build a simple todo API with Express and MongoDB.,coding,coding-030,train
+"Quick one: compare these two product photos, which has better lighting please",multimodal,multimodal-052,train
+Which cable in this photo goes to the router,multimodal,multimodal-004,test
+Can you set up ESLint and Prettier in a Next.js project,coding,coding-089,train
+I need help: why can't you divide a cake fairly among three people by cutting it once please,reasoning,reasoning-060,train
+What is the logical fallacy in saying everyone believes it so it must be true,reasoning,reasoning-088,train
+Search for the best-rated laptops under 60000 rupees,search,search-005,test
+Read the sign in this street photo and translate it,multimodal,multimodal-012,test
+Look up the opening hours of the Bangalore Palace,search,search-067,train
+Write a migration to add an index on the email column,coding,coding-011,test
+Which of these two selfies should I use for my profile thanks,multimodal,multimodal-027,train
+"Hey, help me decide between studying abroad and staying in India for my degree thanks",reasoning,reasoning-023,train
+Write a bash script that renames all .txt files to .md,coding,coding-008,test
+"Hey, why does my React useEffect run twice on mount",coding,coding-003,test
+What does the label on this medicine bottle photo say,multimodal,multimodal-062,train
+"A shop offers 20 percent off then 10 percent off, is that the same as 30 percent off?",reasoning,reasoning-053,train
+Recent developments in fusion energy research?,search,search-065,train
+Write a function to validate an email address in JavaScript please,coding,coding-073,train
+Write a poem about monsoon in Hyderabad,writing,writing-008,test
+Quick one: check this screenshot of my code for bugs?,multimodal,multimodal-080,train
+I need help: look at this MRI scan image and describe what you see?,multimodal,multimodal-038,train
+"Please if all bloops are razzies and all razzies are lazzies, are all bloops lazzies asap",reasoning,reasoning-079,train
+"Hey, what color is the car in the picture",multimodal,multimodal-088,train
+Which teams are in the IPL final this season,search,search-035,train
+I need help: how many states does India have,search,search-064,train
+I need help: draft a memo announcing the new work from home policy asap,writing,writing-027,train
+What are today's headlines about the stock market,search,search-088,train
+Detect the objects in this street photo?,multimodal,multimodal-067,train
+Is this photo of a bridge showing any structural damage.,multimodal,multimodal-003,test
+Write a Python script to rename files based on their creation date,coding,coding-040,train
+Can you write a paragraph describing autumn in the mountains thanks,writing,writing-009,test
+TypeError: Cannot read properties of undefined (reading 'map') please,coding,coding-005,test
+"Hey, think through the trade-offs of a four-day work week.",reasoning,reasoning-062,train
+Caption this image for Instagram,multimodal,multimodal-018,train
+In how many years will a sum double at 10 percent simple interest?,reasoning,reasoning-069,train
+Grade this handwritten exam answer from the image,multimodal,multimodal-005,test
+What is the longest river in Africa,search,search-027,train
+Polish this abstract so it reads well for a journal submission thanks,writing,writing-023,train
+Who scored the most runs in the last cricket World Cup,search,search-085,train
+Could you write a monologue for a villain who thinks he is the hero.,writing,writing-019,train
+Reason step by step: is it better to pay off debt or invest first,reasoning,reasoning-001,test
+I need help: how to serialize a dataclass to JSON in Python,coding,coding-070,train
+Can you what is the current inflation rate in India please,search,search-076,train
+Please why is my Docker container exiting immediately,coding,coding-067,train
+I need help: what is the atomic number of tungsten,search,search-043,train
+Write a SQL query to get the top 5 customers by total order value,coding,coding-079,train
+"Hey, how do I mock an API call in Jest",coding,coding-028,train
+What is the score of the India vs Australia match,search,search-048,train
+What is the boiling point of ethanol.,search,search-058,train
+Quick one: what is the diagram in this picture showing.,multimodal,multimodal-085,train
+Could you describe the mood of this painting thanks,multimodal,multimodal-071,train
+Quick one: when is the next solar eclipse visible from India thanks,search,search-002,test
+What is the latest iPhone model available in India please,search,search-034,train
+Which country hosted the last G20 summit,search,search-017,test
+What's in this screenshot of my terminal error please,multimodal,multimodal-079,train
+I need help: explain this stack trace from Spring Boot,coding,coding-022,train
+Write an executive summary for our quarterly business report please,writing,writing-085,train
+Can you draft a grant proposal abstract for a rural water project.,writing,writing-065,train
+"Which is bigger, 2 to the power 100 or 100 to the power 20",reasoning,reasoning-012,test
+"Hey, if every person in a room shakes hands with everyone else and there are 45 handshakes, how many people",reasoning,reasoning-004,test
+"Hey, summarize the infographic in this picture asap",multimodal,multimodal-063,train
+Explain the circuit in this photo,multimodal,multimodal-036,train
+I need help: look at this chest of drawers photo and tell me how to fix the drawer?,multimodal,multimodal-033,train
+"Could you which is bigger, 2 to the power 100 or 100 to the power 20",reasoning,reasoning-012,test
+I need help: write a persuasive speech on why students should learn to code asap,writing,writing-011,test
+Explain how a hash map works internally thanks,coding,coding-047,train
+Write a funny best man speech asap,writing,writing-058,train
+Latest news about Tesla stock,search,search-013,test
+Can you help me write a bio for my conference speaker profile,writing,writing-059,train
+How to make a Python script executable from the terminal please,coding,coding-015,test
+"If the average of five numbers is 12 and one is removed leaving an average of 10, what was removed thanks",reasoning,reasoning-000,test
+"Hey, how to schedule a cron job that runs every 15 minutes asap",coding,coding-071,train
+Could you implement Dijkstra's algorithm in C++,coding,coding-017,test
+Please has the new Tamil Nadu EV policy been announced yet?,search,search-070,train
+Explain the meme in this image,multimodal,multimodal-069,train
+Write a monologue for a villain who thinks he is the hero,writing,writing-019,train
+Could you who is the president of France.,search,search-077,train
+Explain the difference between async and await in JavaScript,coding,coding-085,train
+Please how many ways can 5 people sit in a row thanks,reasoning,reasoning-078,train
+I need help: how to handle CORS errors in an Express server thanks,coding,coding-001,test
+Please look at this floor plan image and estimate the room sizes,multimodal,multimodal-011,test
+Build a simple todo API with Express and MongoDB,coding,coding-030,train
+Extract the table from this screenshot into CSV,multimodal,multimodal-030,train
+"Is it rational to buy lottery tickets, argue both sides?",reasoning,reasoning-041,train
+Please look at this sketch and tell me what building it is,multimodal,multimodal-008,test
+Could you read the expiry date from this photo of the packet?,multimodal,multimodal-031,train
+I need help: write an engaging opening paragraph for a mystery novel asap,writing,writing-072,train
+Please what year was Google founded.,search,search-029,train
+Summarize the infographic in this picture,multimodal,multimodal-063,train
+Please help me think through whether to drop this course,reasoning,reasoning-057,train
+Please write a persuasive speech on why students should learn to code,writing,writing-011,test
+Write a blog post titled ten lessons from my first startup,writing,writing-005,test
+Please is this plant in the photo healthy or diseased thanks,multimodal,multimodal-078,train
+Write a 300-word article on the history of chai,writing,writing-021,train
+Please how do I add a foreign key constraint in PostgreSQL,coding,coding-069,train
+Quick one: what are today's headlines about the stock market.,search,search-088,train
+I need help: what does git rebase do and when should I use it asap,coding,coding-078,train
+"If a train catches up to another train, how do I set up the equations",reasoning,reasoning-076,train
+Write a funny best man speech,writing,writing-058,train
+Quick one: who directed the movie Oppenheimer?,search,search-080,train
+Quick one: who scored the most runs in the last cricket World Cup,search,search-085,train
+Think through the trade-offs of a four-day work week?,reasoning,reasoning-062,train
+ModuleNotFoundError: No module named numpy even after pip install thanks,coding,coding-010,test
+"Compare these two product photos, which has better lighting",multimodal,multimodal-052,train
+Write a travel blog entry about a weekend in Goa,writing,writing-038,train
+Can you write a sales pitch script for cold calling gyms asap,writing,writing-049,train
+Can you read the number plate from this photo.,multimodal,multimodal-072,train
+Quick one: what is the capital of Kazakhstan please,search,search-089,train
+"Hey, how tall is Mount Kilimanjaro",search,search-014,test
+Argue for and against a universal basic income please,reasoning,reasoning-077,train
+Write a complaint letter to the airline about lost luggage,writing,writing-047,train
+Find recent papers on retrieval-augmented generation,search,search-061,train
+What is the current population of the world,search,search-047,train
+Quick one: how do I set up a virtual environment with venv thanks,coding,coding-036,train
+Quick one: what is the deepest point in the ocean,search,search-038,train
+Could you what does this hand-drawn flowchart represent,multimodal,multimodal-058,train
+What is wrong with the plant in this photo,multimodal,multimodal-015,test
+Quick one: is it logically valid to conclude it rained because the ground is wet asap,reasoning,reasoning-050,train
+Create a LinkedIn post announcing my new job?,writing,writing-042,train
+Walk me through the logic of the Monty Hall problem please,reasoning,reasoning-028,train
+Could you solve for x: 3x + 7 = 2x - 5 thanks,reasoning,reasoning-042,train
+Write a fictional dialogue between two rival chefs,writing,writing-080,train
+Quick one: identify the landmark in this photo thanks,multimodal,multimodal-047,train
+How many handshakes happen if 12 people each shake hands once,reasoning,reasoning-025,train
+Could you draft a two-paragraph bio for my Twitter profile,writing,writing-029,train
+Can you implement a stack using two queues please,coding,coding-009,test
+"Hey, which piece is winning in this chessboard photo asap",multimodal,multimodal-017,test
+Create a REST endpoint that returns JSON in FastAPI,coding,coding-055,train
+Can you write a function that reverses a linked list in Java.,coding,coding-060,train
+Could you write a shell one-liner to count lines in all Python files please,coding,coding-050,train
+Could you draft a sponsorship request letter for our robotics club please,writing,writing-034,train
+"Quick one: what is the difference between let, const and var",coding,coding-088,train
+Can you explain step by step how to decide which sorting algorithm to use,reasoning,reasoning-009,test
+Which team won the most recent Champions League final,search,search-045,train
+Is the text in this poster image readable enough,multimodal,multimodal-009,test
+What is the current population of the world?,search,search-047,train
+Can you search for the best-rated laptops under 60000 rupees thanks,search,search-005,test
+What is the release date of the next iPhone,search,search-069,train
+Analyze this X-ray image for anything unusual thanks,multimodal,multimodal-077,train
+Identify the bird in this image,multimodal,multimodal-084,train
+"If a car travels 150 km in 2.5 hours, what is the average speed",reasoning,reasoning-029,train
+Transcribe the equation from this photo into LaTeX,multimodal,multimodal-024,train
+Could you help me write a eulogy for my grandfather please,writing,writing-046,train
+Can you how do I use TypeScript generics with interfaces thanks,coding,coding-077,train
+Could you recent developments in fusion energy research?,search,search-065,train
+Could you grade this handwritten exam answer from the image,multimodal,multimodal-005,test
+Walk me through the logic of the Monty Hall problem,reasoning,reasoning-028,train
+I need help: estimate how many piano tuners there are in Chicago.,reasoning,reasoning-007,test
+Can you what happened in the tech industry this week asap,search,search-010,test
+Why does my React useEffect run twice on mount,coding,coding-003,test
+Read the temperature from this thermostat photo,multimodal,multimodal-032,train
+How do I make an HTTP POST request with requests in Python,coding,coding-045,train
+Extract the phone number from this business card photo.,multimodal,multimodal-083,train
+Explain why 0.999 repeating equals 1,reasoning,reasoning-046,train
+Expand this outline into a full article on sleep hygiene thanks,writing,writing-088,train
+Identify the mountain range in this landscape photo asap,multimodal,multimodal-057,train
+Please improve the flow and tone of this paragraph,writing,writing-004,test
+Quick one: what happened in the tech industry this week.,search,search-010,test
+"A shop offers 20 percent off then 10 percent off, is that the same as 30 percent off",reasoning,reasoning-053,train
+Quick one: why does a heavier object not fall faster than a lighter one in a vacuum asap,reasoning,reasoning-027,train
+Argue for and against a universal basic income.,reasoning,reasoning-077,train
+"Hey, explain the circuit in this photo",multimodal,multimodal-036,train
+Write a short horror story set in a hostel,writing,writing-073,train
+I need help: compare these two chart screenshots and tell me which trend is stronger asap,multimodal,multimodal-045,train
+How many chairs are visible in this room photo.,multimodal,multimodal-061,train
+Could you write a movie review of a sci-fi film I just watched,writing,writing-022,train
+What are the top trending movies on Netflix India this week,search,search-016,test
+I need help: write a GraphQL schema for a blog with posts and comments,coding,coding-052,train
+Could you which is the largest desert in the world?,search,search-009,test
+Please prove that the square root of 2 is irrational?,reasoning,reasoning-022,train
+"Quick one: what is the next number in the sequence 2, 6, 12, 20, 30",reasoning,reasoning-016,test
+I need help: draft a memo announcing the new work from home policy.,writing,writing-027,train
+I need help: draft a cover letter for a software engineering internship please,writing,writing-054,train
+"Hey, write a letter of recommendation for my intern",writing,writing-033,train
+Write a haiku about coffee,writing,writing-032,train
+I need help: build a simple todo API with Express and MongoDB.,coding,coding-030,train
+"Can you what is the flaw in this argument: all birds fly, penguins are birds, so penguins fly",reasoning,reasoning-070,train
+How do I deploy a Node app on an Ubuntu VPS with pm2 thanks,coding,coding-048,train
+Please how to schedule a cron job that runs every 15 minutes,coding,coding-071,train
+How to parse JSON in Rust with serde,coding,coding-053,train
+I need help: implement quicksort and explain its complexity,coding,coding-006,test
+Quick one: what species of fish is in this aquarium picture,multimodal,multimodal-066,train
+Read the sign in this street photo and translate it asap,multimodal,multimodal-012,test
+"Hey, what is written on this whiteboard photo please",multimodal,multimodal-053,train
+Please what year was Google founded?,search,search-029,train
+Can you compose a thank-you note to my mentor,writing,writing-051,train
+Convert this photo of my notes into a bullet list asap,multimodal,multimodal-044,train
+"Hey, draft a statement of purpose for a PhD in computer science asap",writing,writing-016,test
+I need help: when was the Eiffel Tower built please,search,search-012,test
+Draft meeting minutes from these notes,writing,writing-018,train
+Quick one: write a bash script that renames all .txt files to .md.,coding,coding-008,test
+I need help: explain memory leaks in JavaScript closures,coding,coding-004,test
+Please count the number of people in this image,multimodal,multimodal-073,train
+Describe the mood of this painting,multimodal,multimodal-071,train
+Describe the outfit in this photo and suggest matching shoes,multimodal,multimodal-065,train
+Evaluate the argument that AI will take all jobs,reasoning,reasoning-074,train
+Draft a resignation letter that keeps things friendly asap,writing,writing-078,train
+Quick one: what is the release date of the next iPhone,search,search-069,train
+What year was Google founded,search,search-029,train
+"What is 17 times 23 without a calculator, show your working",reasoning,reasoning-083,train
+"Can you if it takes 5 machines 5 minutes to make 5 widgets, how long for 100 machines to make 100 widgets",reasoning,reasoning-039,train
+"I need help: if I invest 10000 at 8 percent compounded annually, how much after 5 years?",reasoning,reasoning-047,train
+"Hey, compose a thank-you note to my mentor asap",writing,writing-051,train
+Could you which team won the most recent Champions League final asap,search,search-045,train
+Could you write a Python decorator that logs function execution time asap,coding,coding-059,train
+"Could you two fathers and two sons go fishing and catch three fish, one each, how",reasoning,reasoning-037,train
+Give me the latest unemployment statistics for the US,search,search-028,train
+"Hey, what is the release date of the next iPhone please",search,search-069,train
+"Hey, write a letter to my future self.",writing,writing-075,train
+Implement a stack using two queues,coding,coding-009,test
+Quick one: write a 300-word article on the history of chai thanks,writing,writing-021,train
+Can you write a monologue for a villain who thinks he is the hero.,writing,writing-019,train
+How to merge two branches in git without a merge commit please,coding,coding-072,train
+Quick one: implement a stack using two queues please,coding,coding-009,test
+Look at this outfit photo and rate it out of ten.,multimodal,multimodal-020,train
+Are these two images of the same person,multimodal,multimodal-007,test
+Quick one: reason out whether a ball thrown upward has zero acceleration at the top?,reasoning,reasoning-043,train
+Count the number of people in this image,multimodal,multimodal-073,train
+Are there any train strikes in Mumbai today,search,search-003,test
+Can you rewrite this paragraph to sound more formal thanks,writing,writing-002,test
+What dish is shown in this photo and how is it made,multimodal,multimodal-016,test
+I need help: think through whether it makes sense to buy an electric scooter for a 5 km commute,reasoning,reasoning-086,train
+Read the number plate from this photo,multimodal,multimodal-072,train
+"Hey, what is the population of Bangalore in 2026.",search,search-072,train
+Could you what are the top trending movies on Netflix India this week,search,search-016,test
+Analyze the layout of this website screenshot,multimodal,multimodal-046,train
+Explain what is happening in this comic strip image,multimodal,multimodal-037,train
+What does the 'static' keyword do in C++ please,coding,coding-016,test
+What is the average temperature in Delhi in May,search,search-025,train
+How do I catch exceptions in Python and log them,coding,coding-044,train
+I need help: how would you fairly divide a cake among three people thanks,reasoning,reasoning-045,train
+Quick one: refactor this class to use dependency injection,coding,coding-082,train
+Why is my Docker container exiting immediately,coding,coding-067,train
+Can you what is the exchange rate of USD to INR today,search,search-075,train
+When did India gain independence,search,search-041,train
+"If it takes 5 machines 5 minutes to make 5 widgets, how long for 100 machines to make 100 widgets thanks",reasoning,reasoning-039,train
+Write a detailed proposal for a campus recycling program thanks,writing,writing-006,test
+"Hey, what dish is shown in this photo and how is it made.",multimodal,multimodal-016,test
+How do I upload a file to S3 using boto3 asap,coding,coding-068,train
+"Hey, write a children's rhyme about brushing teeth asap",writing,writing-062,train
+I need help: help me write a eulogy for my grandfather please,writing,writing-046,train
+What's in this screenshot of my terminal error,multimodal,multimodal-079,train
+"Hey, read the number plate from this photo",multimodal,multimodal-072,train
+Implement quicksort and explain its complexity thanks,coding,coding-006,test
+Is the wiring in this photo done safely,multimodal,multimodal-028,train
+Draft a pitch email to a journalist about our app thanks,writing,writing-001,test
+Compare the pros and cons of renting versus buying a house.,reasoning,reasoning-051,train
+"Optimize this nested loop, it is O(n^2)",coding,coding-056,train
+Implement a LRU cache in Python asap,coding,coding-007,test
+Which company acquired Figma asap,search,search-006,test
+Write a Java program to find duplicate elements in an array.,coding,coding-087,train
+Improve the flow and tone of this paragraph,writing,writing-004,test
+"Hey, write a Python decorator that logs function execution time asap",coding,coding-059,train
+"Hey, find the typo in this screenshot of my slide please",multimodal,multimodal-087,train
+Write a letter to my future self please,writing,writing-075,train
+How do I connect to MongoDB from Node.js,coding,coding-023,train
+Compose a farewell message for a colleague who is leaving,writing,writing-056,train
+"Quick one: two dice are rolled, what is the probability the sum is 7",reasoning,reasoning-034,train
+What is the capital of Kazakhstan,search,search-089,train
+Quick one: walk me through the logic of the Monty Hall problem?,reasoning,reasoning-028,train
+Who won the Nobel Prize in Physics this year,search,search-018,train
+What is the latest Android version called,search,search-073,train
+Could you is the text in this poster image readable enough please,multimodal,multimodal-009,test
+When does the IPL 2027 season start,search,search-079,train
+I need help: what is the logical fallacy in saying everyone believes it so it must be true,reasoning,reasoning-088,train
+Who is the current chief minister of Karnataka,search,search-019,train
+Please how do I implement pagination in a Django REST API?,coding,coding-064,train
+What is the probability of getting two heads in three coin tosses,reasoning,reasoning-020,train
+Write a heartfelt birthday message for my mom,writing,writing-026,train
+"Hey, what is the GDP of Japan?",search,search-044,train
+What year did India win its first cricket World Cup,search,search-008,test
+What is the current inflation rate in India,search,search-076,train
+Please which fruit in this basket photo looks ripe asap,multimodal,multimodal-068,train
+Write a product description for a handmade leather wallet,writing,writing-015,test
+Compose an email declining a job offer politely.,writing,writing-012,test
+What is the price on this shelf tag image please,multimodal,multimodal-076,train
+"Hey, explain this stack trace from Spring Boot?",coding,coding-022,train
+What time zone is Dubai in,search,search-020,train
+"Quick one: two trains leave stations 300 km apart at 60 and 90 km/h toward each other, when do they meet",reasoning,reasoning-036,train
+Draft a press release for our app launch,writing,writing-013,test
+Who directed the movie Oppenheimer,search,search-080,train
+In how many years will a sum double at 10 percent simple interest,reasoning,reasoning-069,train
+Write a children's rhyme about brushing teeth,writing,writing-062,train
+How would you fairly divide a cake among three people,reasoning,reasoning-045,train
+I need help: write a scene where two old friends meet after ten years please,writing,writing-064,train
+Is the Bangalore metro purple line open on Sundays asap,search,search-083,train
+Please why does npm install fail with EACCES permission denied thanks,coding,coding-002,test
+How to serialize a dataclass to JSON in Python,coding,coding-070,train
+"Can you three boxes are labelled wrong, how many draws do I need to relabel them correctly thanks",reasoning,reasoning-040,train
+"I need help: which is bigger, 2 to the power 100 or 100 to the power 20 thanks",reasoning,reasoning-012,test
+"Hey, which of these two room photos looks tidier thanks",multimodal,multimodal-040,train
+Write an Arduino sketch to blink an LED every 500 ms,coding,coding-080,train
+Why does my async function return a Promise instead of the value,coding,coding-083,train
+Compose a heartfelt wedding toast for my best friend?,writing,writing-035,train
+"I have 3 red and 5 blue socks in a drawer, how many must I pull to guarantee a pair",reasoning,reasoning-054,train
+Please extract the table from this screenshot into CSV?,multimodal,multimodal-030,train
+Describe the architecture style of the building in the photo,multimodal,multimodal-022,train
+Is the Bangalore metro purple line open on Sundays,search,search-083,train
+Is the text in this poster image readable enough thanks,multimodal,multimodal-009,test
+Could you what does the label on this medicine bottle photo say,multimodal,multimodal-062,train
+"Hey, write a Python generator that yields Fibonacci numbers thanks",coding,coding-020,train
+Create a tagline and slogan for a bicycle rental startup,writing,writing-024,train
+Write a limerick about a cat who codes please,writing,writing-048,train
+Can you explain what is happening in this comic strip image.,multimodal,multimodal-037,train
+"Please a shop offers 20 percent off then 10 percent off, is that the same as 30 percent off thanks",reasoning,reasoning-053,train
+Draft a two-paragraph bio for my Twitter profile.,writing,writing-029,train
+Is this plant in the photo healthy or diseased,multimodal,multimodal-078,train
+Quick one: what is the distance between Hyderabad and Bangalore by road?,search,search-036,train
+Quick one: what is written on this whiteboard photo,multimodal,multimodal-053,train
+What is the exchange rate of USD to INR today,search,search-075,train
+Could you what is the population of Bangalore in 2026,search,search-072,train
+Prove that the sum of two even numbers is even,reasoning,reasoning-035,train
+"Hey, draft a press release for our app launch asap",writing,writing-013,test
+"Could you my Flask app returns 404 for every route, what is wrong?",coding,coding-024,train
+"Hey, what is the latest version of Python",search,search-052,train
+How do I deploy a Node app on an Ubuntu VPS with pm2,coding,coding-048,train
+Write a Python script to scrape titles from a webpage with BeautifulSoup,coding,coding-081,train
+Write a detailed proposal for a campus recycling program,writing,writing-006,test
+I need help: write a letter of recommendation for my intern?,writing,writing-033,train
+Set up a GitHub Actions workflow that runs pytest on push thanks,coding,coding-033,train
+What is the distance between Hyderabad and Bangalore by road?,search,search-036,train
+Can you what emotion is the person in this picture showing,multimodal,multimodal-013,test
+What is the distance between Hyderabad and Bangalore by road,search,search-036,train
+Evaluate the argument that AI will take all jobs.,reasoning,reasoning-074,train
+How do I upload a file to S3 using boto3,coding,coding-068,train
+Quick one: what dish is shown in this photo and how is it made please,multimodal,multimodal-016,test
+I need help: how far is the moon from Earth thanks,search,search-011,test
+How many handshakes happen if 12 people each shake hands once.,reasoning,reasoning-025,train
+Please what is the boiling point of ethanol?,search,search-058,train
+Please explain how a hash map works internally,coding,coding-047,train
+Please who is the current chief minister of Karnataka,search,search-019,train
+Convert this photo of my notes into a bullet list,multimodal,multimodal-044,train
+What is the newest Marvel movie released.,search,search-015,test
+How tall is Mount Kilimanjaro,search,search-014,test
+Read the handwriting in this note and type it out please,multimodal,multimodal-081,train
+Quick one: what kind of rash is shown in this skin photo,multimodal,multimodal-082,train
+I need help: write a fictional dialogue between two rival chefs,writing,writing-080,train
+Think through whether it makes sense to buy an electric scooter for a 5 km commute,reasoning,reasoning-086,train
+Can you when is Diwali this year asap,search,search-082,train
+Make this paragraph more concise without losing meaning,writing,writing-041,train
+Identify the car brand from this logo image,multimodal,multimodal-006,test
+"Hey, what is the next number in the sequence 2, 6, 12, 20, 30 asap",reasoning,reasoning-016,test
+Where is the 2028 Olympics being held,search,search-049,train
+"Please if the average of five numbers is 12 and one is removed leaving an average of 10, what was removed asap",reasoning,reasoning-000,test
+Please write a Swift function that sorts an array of structs by date thanks,coding,coding-049,train
+Which teams are in the IPL final this season please,search,search-035,train
+I need help: how to make a Python script executable from the terminal asap,coding,coding-015,test
+What is the longest river in Africa.,search,search-027,train
+Solve for x: 3x + 7 = 2x - 5,reasoning,reasoning-042,train
+Debug this segmentation fault in my C program?,coding,coding-084,train
+Explain step by step why the sky is blue,reasoning,reasoning-021,train
+"Hey, caption this image for Instagram",multimodal,multimodal-018,train
+Quick one: polish this abstract so it reads well for a journal submission.,writing,writing-023,train
+Describe the scene in this painting in detail?,multimodal,multimodal-064,train
+I need help: which country hosted the last G20 summit?,search,search-017,test
+Please create a tagline and slogan for a bicycle rental startup?,writing,writing-024,train
+Why does npm install fail with EACCES permission denied,coding,coding-002,test
+Turn these bullet points into a well-structured report,writing,writing-017,test
+"Could you if it is 3 pm in London what time is it in Bangalore, reason it out?",reasoning,reasoning-024,train
+Please create a LinkedIn post announcing my new job asap,writing,writing-042,train
+"Hey, write a long-form explainer on how vaccines work for a general audience?",writing,writing-069,train
+Which fruit in this basket photo looks ripe please,multimodal,multimodal-068,train
+Polish this abstract so it reads well for a journal submission,writing,writing-023,train
+Write a long-form explainer on how vaccines work for a general audience.,writing,writing-069,train
+Who is the CEO of OpenAI right now,search,search-068,train
+"I need help: two dice are rolled, what is the probability the sum is 7",reasoning,reasoning-034,train
+Quick one: how do I read environment variables in Node.js thanks,coding,coding-057,train
+How to merge two branches in git without a merge commit,coding,coding-072,train
+Explain the reasoning behind the prisoner's dilemma thanks,reasoning,reasoning-082,train
+When was the Taj Mahal completed,search,search-033,train
+What is the speed of light in km per second,search,search-021,train
+Convert this screenshot of a table into markdown,multimodal,multimodal-070,train
+Draft a statement of purpose for a PhD in computer science,writing,writing-016,test
+Please write a function to validate an email address in JavaScript?,coding,coding-073,train
+Find the nearest passport office in Bangalore,search,search-000,test
+I need help: write a movie review of a sci-fi film I just watched,writing,writing-022,train
+Write a letter of recommendation for my intern,writing,writing-033,train
+Explain this Kubernetes YAML and why the pod is CrashLoopBackOff.,coding,coding-025,train
+Please draft the about-us page for a startup that sells organic tea please,writing,writing-086,train
+"Hey, give me the latest unemployment statistics for the US",search,search-028,train
+Which of these two selfies should I use for my profile,multimodal,multimodal-027,train
+Write a book blurb for a fantasy novel about a librarian mage,writing,writing-044,train
+Write a 500-word reflection on what I learned this semester,writing,writing-063,train
+Can you what is the tallest building in the world right now?,search,search-056,train
+What is the difference between a process and a thread in an OS,coding,coding-054,train
+Look at the picture and tell me what time the clock shows,multimodal,multimodal-034,train
+How would you settle a dispute between two co-founders about equity?,reasoning,reasoning-049,train
+What is the official language of Brazil?,search,search-024,train
+Why is the Monty Hall answer counterintuitive to most people,reasoning,reasoning-056,train
+What are the visa requirements for Indians travelling to Japan,search,search-040,train
+Explain step by step how to decide which sorting algorithm to use,reasoning,reasoning-009,test
+Can you look at this sketch and tell me what building it is?,multimodal,multimodal-008,test
+Could you suggest a caption for this sunset picture,multimodal,multimodal-029,train
+"Hey, what is written on the t-shirt in this picture",multimodal,multimodal-049,train
+Fix this Python TypeError: unsupported operand type(s) for +: 'int' and 'str',coding,coding-012,test
+Please what is the score shown on this scoreboard picture?,multimodal,multimodal-054,train
+ModuleNotFoundError: No module named numpy even after pip install?,coding,coding-010,test
+I need help: look at this chest of drawers photo and tell me how to fix the drawer thanks,multimodal,multimodal-033,train
+Write a blog post about the benefits of morning routines,writing,writing-081,train
+Write a sonnet about the ocean,writing,writing-076,train
+Could you my git push is rejected because the remote contains work I do not have?,coding,coding-051,train
+Could you write a heartfelt birthday message for my mom please,writing,writing-026,train
+Read the serial number from this photo of my laptop?,multimodal,multimodal-026,train
+Can you explain memory leaks in JavaScript closures?,coding,coding-004,test
+Quick one: write a testimonial for my yoga instructor.,writing,writing-061,train
+Please draft a pitch email to a journalist about our app,writing,writing-001,test
+Quick one: what's in this screenshot of my terminal error please,multimodal,multimodal-079,train
+Identify the mountain range in this landscape photo,multimodal,multimodal-057,train
+What are the current RBI repo rate figures?,search,search-055,train
+I need help: are there any train strikes in Mumbai today.,search,search-003,test
+"Hey, explain the difference between async and await in JavaScript.",coding,coding-085,train
+Quick one: help me think through whether to drop this course thanks,reasoning,reasoning-057,train
+What is wrong with the argument that correlation proves causation thanks,reasoning,reasoning-084,train
+"I need help: if a shirt costs 800 after a 20 percent discount, what was the original price thanks",reasoning,reasoning-015,test
+Could you draft an email to my professor asking for a deadline extension,writing,writing-039,train
+What is the score of the India vs Australia match.,search,search-048,train
+"Could you if 3 workers build a wall in 6 days, how long do 9 workers take asap",reasoning,reasoning-073,train
+Could you write a poem about monsoon in Hyderabad?,writing,writing-008,test
+"If I flip a fair coin 10 times, what is the expected number of heads",reasoning,reasoning-061,train
+My git push is rejected because the remote contains work I do not have,coding,coding-051,train
+What is the diagram in this picture showing,multimodal,multimodal-085,train
+"What is the difference between let, const and var",coding,coding-088,train
+"Quick one: a lily pad doubles every day and covers the pond in 30 days, when did it cover half please",reasoning,reasoning-055,train
+"Can you a lily pad doubles every day and covers the pond in 30 days, when did it cover half?",reasoning,reasoning-055,train
+What is wrong with the argument that correlation proves causation,reasoning,reasoning-084,train
+I need help: write a sonnet about the ocean.,writing,writing-076,train
+Help me decide between studying abroad and staying in India for my degree,reasoning,reasoning-023,train
+"If the average of five numbers is 12 and one is removed leaving an average of 10, what was removed",reasoning,reasoning-000,test
+Please estimate the number of cars in Bangalore with reasoning asap,reasoning,reasoning-068,train
+"A lily pad doubles every day and covers the pond in 30 days, when did it cover half",reasoning,reasoning-055,train
+Who won the Nobel Prize in Physics this year please,search,search-018,train
+"Quick one: is this syllogism valid: some cats are black, all black things are dark, so some cats are dark",reasoning,reasoning-052,train
+Implement a LRU cache in Python,coding,coding-007,test
+Please write a children's rhyme about brushing teeth,writing,writing-062,train
+"Hey, what is the tallest building in the world right now.",search,search-056,train
+Quick one: why is my Python virtual environment not activating on Windows?,coding,coding-065,train
+Count the number of people in this image?,multimodal,multimodal-073,train
+Please create a responsive grid layout with Tailwind please,coding,coding-086,train
+Quick one: refactor this class to use dependency injection?,coding,coding-082,train
+I need help: when does daylight saving time end in the US this year,search,search-050,train
+Please write a migration to add an index on the email column,coding,coding-011,test
+How many diagonals does a decagon have,reasoning,reasoning-059,train
+Could you what is the average temperature in Delhi in May,search,search-025,train
+Break down whether a startup should raise money now or bootstrap,reasoning,reasoning-089,train
+What is the animal in this blurry night photo,multimodal,multimodal-000,test
+Quick one: how much does a Tesla Model 3 cost in India.,search,search-007,test
+Can you compose a polite complaint email to my landlord about the leaking roof,writing,writing-031,train
+Write a Kotlin data class for a user profile,coding,coding-034,train
+Look at this chest of drawers photo and tell me how to fix the drawer,multimodal,multimodal-033,train
+Who is the founder of Infosys,search,search-026,train
+Explain the logic behind the birthday paradox?,reasoning,reasoning-008,test
+Quick one: convert this callback code to promises,coding,coding-014,test
+I need help: what does the pie chart in this image show as the largest slice asap,multimodal,multimodal-050,train
+Can you what is the current price of Bitcoin please,search,search-066,train
+Quick one: compose a polite complaint email to my landlord about the leaking roof asap,writing,writing-031,train
+Write the introduction chapter for my thesis on renewable energy,writing,writing-089,train
+"Should I take the job with higher pay or the one with better learning, think it through",reasoning,reasoning-075,train
+Could you why does compound interest grow faster than simple interest,reasoning,reasoning-058,train
+"A rope ladder hangs over a ship, the tide rises 1 metre, how many rungs go under water",reasoning,reasoning-044,train
+Write a Python script to scrape titles from a webpage with BeautifulSoup?,coding,coding-081,train
+"Hey, my Streamlit app reruns the whole script on every click, how to cache?",coding,coding-041,train
+Analyze this graph image and summarize the key finding asap,multimodal,multimodal-042,train
+"Can you a farmer has 17 sheep, all but 9 die, how many are left",reasoning,reasoning-011,test
+I need help: why does my React useEffect run twice on mount.,coding,coding-003,test
+Compare these two chart screenshots and tell me which trend is stronger,multimodal,multimodal-045,train
+Could you why does compound interest grow faster than simple interest.,reasoning,reasoning-058,train
+Please who directed the movie Oppenheimer?,search,search-080,train
+"Please if every person in a room shakes hands with everyone else and there are 45 handshakes, how many people asap",reasoning,reasoning-004,test
+Can you write a heartfelt birthday message for my mom thanks,writing,writing-026,train
+Solve the system x plus y equals 10 and x minus y equals 4,reasoning,reasoning-017,test
+What is the current world record for the 100m sprint thanks,search,search-074,train
+Compose a heartfelt wedding toast for my best friend,writing,writing-035,train
+Can you how do I read environment variables in Node.js,coding,coding-057,train
+Compose a polite complaint email to my landlord about the leaking roof,writing,writing-031,train
+Why does a heavier object not fall faster than a lighter one in a vacuum,reasoning,reasoning-027,train
+Who is the CEO of OpenAI right now asap,search,search-068,train
+"Is this syllogism valid: some cats are black, all black things are dark, so some cats are dark",reasoning,reasoning-052,train
+Which is the better strategy in rock paper scissors against a predictable opponent,reasoning,reasoning-048,train
+How do I upload a file to S3 using boto3?,coding,coding-068,train
+Could you why does a heavier object not fall faster than a lighter one in a vacuum,reasoning,reasoning-027,train
+Could you compare this before and after photo of the room asap,multimodal,multimodal-035,train
+I need help: turn this photographed math problem into text and solve it.,multimodal,multimodal-041,train
+"A man walks 3 km north then 4 km east, how far is he from the start",reasoning,reasoning-033,train
+"Three boxes are labelled wrong, how many draws do I need to relabel them correctly",reasoning,reasoning-040,train
+Compose a rap verse about debugging at 3 am thanks,writing,writing-055,train
+Write a Python class for a bank account with deposit and withdraw,coding,coding-046,train
+Find recent papers on retrieval-augmented generation please,search,search-061,train
+Transcribe the equation from this photo into LaTeX?,multimodal,multimodal-024,train
+Quick one: compose an email declining a job offer politely.,writing,writing-012,test
+Draft a professional out-of-office reply asap,writing,writing-066,train
+Please how to merge two branches in git without a merge commit,coding,coding-072,train
+"Please should I take the job with higher pay or the one with better learning, think it through.",reasoning,reasoning-075,train
+"Hey, what is the currency of Vietnam thanks",search,search-059,train
+TypeError: Cannot read properties of undefined (reading 'map'),coding,coding-005,test
+Convert this callback code to promises,coding,coding-014,test
+Write song lyrics about leaving home for college,writing,writing-037,train
+What does the 'static' keyword do in C++,coding,coding-016,test
+Write an Arduino sketch to blink an LED every 500 ms asap,coding,coding-080,train
+Write a limerick about a cat who codes,writing,writing-048,train
+What is the price on this shelf tag image,multimodal,multimodal-076,train
+What is the Sensex at right now,search,search-031,train
+I need help: what is the chemical formula of caffeine,search,search-084,train
+Write song lyrics about leaving home for college asap,writing,writing-037,train
+Can you write a Python class for a bank account with deposit and withdraw please,coding,coding-046,train
+Can you fix the indentation error in this code block,coding,coding-031,train
+Could you what is the chemical formula of caffeine?,search,search-084,train
+Write an engaging opening paragraph for a mystery novel,writing,writing-072,train
+When was the Eiffel Tower built,search,search-012,test
+Please why is my Python virtual environment not activating on Windows,coding,coding-065,train
+Write a PHP function that connects to MySQL using PDO please,coding,coding-058,train
+Search for the best-rated laptops under 60000 rupees please,search,search-005,test
+Quick one: write a condolence message for a friend who lost her father?,writing,writing-043,train
+Which planet has the most moons,search,search-054,train
+I need help: explain why dividing by zero is undefined thanks,reasoning,reasoning-013,test
+Identify the car brand from this logo image please,multimodal,multimodal-006,test
+Write a Kotlin data class for a user profile asap,coding,coding-034,train
+Can you write an executive summary for our quarterly business report,writing,writing-085,train
+Read the serial number from this photo of my laptop,multimodal,multimodal-026,train
+Quick one: when was the Taj Mahal completed?,search,search-033,train
+My React state update is not re-rendering the component,coding,coding-039,train
+"What is 17 times 23 without a calculator, show your working.",reasoning,reasoning-083,train
+"What is the next number in the sequence 2, 6, 12, 20, 30",reasoning,reasoning-016,test
+Who won the Formula 1 race last weekend.,search,search-063,train
+I need help: grade this handwritten exam answer from the image thanks,multimodal,multimodal-005,test
+Can you how much does a Tesla Model 3 cost in India please,search,search-007,test
+Quick one: write a blog post about the benefits of morning routines thanks,writing,writing-081,train
+"Could you if it is 3 pm in London what time is it in Bangalore, reason it out.",reasoning,reasoning-024,train
+Could you how do I make an HTTP POST request with requests in Python,coding,coding-045,train
+Create a compelling product launch email for our new sneaker,writing,writing-060,train
+Explain the trolley problem and the main positions on it,reasoning,reasoning-003,test
+Explain this Kubernetes YAML and why the pod is CrashLoopBackOff,coding,coding-025,train
+Can you what is the price of gold today in Hyderabad asap,search,search-051,train
+Write a sales pitch script for cold calling gyms,writing,writing-049,train
+What is the score shown on this scoreboard picture,multimodal,multimodal-054,train
+Translate the menu in this image to English,multimodal,multimodal-060,train
+What is wrong with the argument that correlation proves causation asap,reasoning,reasoning-084,train
+Please what time zone is Dubai in thanks,search,search-020,train
+"Three boxes are labelled wrong, how many draws do I need to relabel them correctly?",reasoning,reasoning-040,train
+Write an executive summary for our quarterly business report,writing,writing-085,train
+Analyze this X-ray image for anything unusual,multimodal,multimodal-077,train
+"IndexError: list index out of range in my loop, why thanks",coding,coding-038,train
+Latest news on the ISRO Gaganyaan mission.,search,search-057,train
+Is the person in this image wearing a helmet asap,multimodal,multimodal-051,train
+How many chairs are visible in this room photo,multimodal,multimodal-061,train
+Can you describe the architecture style of the building in the photo,multimodal,multimodal-022,train
+"Hey, draft a professional out-of-office reply thanks",writing,writing-066,train
+Which is the largest desert in the world,search,search-009,test
+Estimate the number of cars in Bangalore with reasoning,reasoning,reasoning-068,train
+Summarize this article in three paragraphs for a newsletter,writing,writing-077,train
+How many players are on a kabaddi team,search,search-062,train
+Please is this plant in the photo healthy or diseased asap,multimodal,multimodal-078,train
+Can you what is the score of the India vs Australia match asap,search,search-048,train
+What is the national animal of Australia,search,search-001,test
+How do I implement pagination in a Django REST API,coding,coding-064,train
+Can you add error handling to this fetch call thanks,coding,coding-032,train
+When did India gain independence thanks,search,search-041,train
+Can you create a responsive grid layout with Tailwind,coding,coding-086,train
+"Please if a shirt costs 800 after a 20 percent discount, what was the original price thanks",reasoning,reasoning-015,test
+"Hey, what does this hand-drawn flowchart represent asap",multimodal,multimodal-058,train
+I need help: describe the mood of this painting asap,multimodal,multimodal-071,train
+"IndexError: list index out of range in my loop, why",coding,coding-038,train
+"Hey, what is the exchange rate of USD to INR today thanks",search,search-075,train
+How much does a Tesla Model 3 cost in India,search,search-007,test
+How do I add a foreign key constraint in PostgreSQL,coding,coding-069,train
+Quick one: what breed is the dog in this picture please,multimodal,multimodal-021,train
+Could you why can't you divide a cake fairly among three people by cutting it once.,reasoning,reasoning-060,train
+Analyze the layout of this website screenshot asap,multimodal,multimodal-046,train
+Could you how do I use TypeScript generics with interfaces thanks,coding,coding-077,train
+"Hey, indexError: list index out of range in my loop, why",coding,coding-038,train
+Set up ESLint and Prettier in a Next.js project,coding,coding-089,train
+What does this hand-drawn flowchart represent,multimodal,multimodal-058,train
+Could you create a compelling product launch email for our new sneaker thanks,writing,writing-060,train
+Could you detect the objects in this street photo,multimodal,multimodal-067,train
+Refactor this class to use dependency injection,coding,coding-082,train
+"Hey, find the nearest passport office in Bangalore",search,search-000,test
+Quick one: write a haiku about coffee?,writing,writing-032,train
+Evaluate whether it is worth doing a masters right after undergrad,reasoning,reasoning-014,test
+I need help: what is the latest Android version called.,search,search-073,train
+Draft a LinkedIn recommendation for my former manager,writing,writing-010,test
+How many ways can 5 people sit in a row thanks,reasoning,reasoning-078,train
+Prove that the sum of two even numbers is even asap,reasoning,reasoning-035,train
+"Hey, write a testimonial for my yoga instructor thanks",writing,writing-061,train
+I need help: write a travel blog entry about a weekend in Goa please,writing,writing-038,train
+Explain the difference between an interface and an abstract class,coding,coding-019,train
+Can you which planet has the most moons please,search,search-054,train
+What is the official language of Brazil,search,search-024,train
+Can you compare this before and after photo of the room please,multimodal,multimodal-035,train
+Why does compound interest grow faster than simple interest,reasoning,reasoning-058,train
+Could you identify the car brand from this logo image,multimodal,multimodal-006,test
+"What is 17 times 23 without a calculator, show your working please",reasoning,reasoning-083,train
+Can you convert this screenshot of a table into markdown asap,multimodal,multimodal-070,train
+Who invented the telephone,search,search-046,train
+Please write a Python script to rename files based on their creation date please,coding,coding-040,train
+Please create a REST endpoint that returns JSON in FastAPI,coding,coding-055,train
+"Hey, explain the trolley problem and the main positions on it",reasoning,reasoning-003,test
+Please write a product description for a handmade leather wallet.,writing,writing-015,test
+Tell me what the graph in the screenshot is measuring,multimodal,multimodal-043,train
+"I need help: a rope ladder hangs over a ship, the tide rises 1 metre, how many rungs go under water",reasoning,reasoning-044,train
+Can you what are the visa requirements for Indians travelling to Japan asap,search,search-040,train
+Write a PHP function that connects to MySQL using PDO,coding,coding-058,train
+Is it logically valid to conclude it rained because the ground is wet,reasoning,reasoning-050,train
+Could you write a condolence message for a friend who lost her father please,writing,writing-043,train
+Quick one: latest news on the ISRO Gaganyaan mission?,search,search-057,train
+Quick one: break down whether a startup should raise money now or bootstrap please,reasoning,reasoning-089,train
+Please why does npm install fail with EACCES permission denied asap,coding,coding-002,test
+Could you what is the speed of light in km per second please,search,search-021,train
+How many bones are in the human body please,search,search-078,train
+Write a movie review of a sci-fi film I just watched,writing,writing-022,train
+Quick one: describe the outfit in this photo and suggest matching shoes,multimodal,multimodal-065,train
+Implement quicksort and explain its complexity,coding,coding-006,test
+"I need help: if a car travels 150 km in 2.5 hours, what is the average speed",reasoning,reasoning-029,train
+"Hey, how do I prevent SQL injection in my login form thanks",coding,coding-042,train
+What is the price of gold today in Hyderabad,search,search-051,train
+Solve the system x plus y equals 10 and x minus y equals 4.,reasoning,reasoning-017,test
+Derive the quadratic formula from completing the square,reasoning,reasoning-081,train
+Explain what this lambda expression does thanks,coding,coding-037,train
+"Hey, look at this UI mockup and suggest improvements",multimodal,multimodal-019,train
+Latest news about Tesla stock thanks,search,search-013,test
+Write a personal statement for a masters application?,writing,writing-007,test
+"Hey, what is the probability of getting two heads in three coin tosses.",reasoning,reasoning-020,train
+"If all bloops are razzies and all razzies are lazzies, are all bloops lazzies",reasoning,reasoning-079,train
+Please what is the time complexity of this recursive function,coding,coding-021,train
+Please how to handle CORS errors in an Express server thanks,coding,coding-001,test
+What is the current world record for the 100m sprint,search,search-074,train
+Help me write a bio for my conference speaker profile,writing,writing-059,train
+Draft an apology email for missing the client meeting,writing,writing-040,train
+Help me think through whether to drop this course,reasoning,reasoning-057,train
+"If today is Tuesday, what day is it 100 days from now",reasoning,reasoning-030,train
+Can you read the text in this scanned receipt and total it asap,multimodal,multimodal-059,train
+Implement binary search in Go,coding,coding-061,train
+"If every person in a room shakes hands with everyone else and there are 45 handshakes, how many people",reasoning,reasoning-004,test
+Please what color is the car in the picture,multimodal,multimodal-088,train
+Could you read the sign in this street photo and translate it?,multimodal,multimodal-012,test
+Could you describe what is in this image,multimodal,multimodal-039,train
+Extract the phone number from this business card photo,multimodal,multimodal-083,train
+Read the expiry date from this photo of the packet,multimodal,multimodal-031,train
+What is the difference between a process and a thread in an OS please,coding,coding-054,train
+I need help: read the expiry date from this photo of the packet please,multimodal,multimodal-031,train
+Please turn these bullet points into a well-structured report,writing,writing-017,test
+"Which is a better deal, 30 percent off or buy two get one free",reasoning,reasoning-071,train
+"A snail climbs 3 metres a day and slips 2 at night, how long to climb a 10 metre wall please",reasoning,reasoning-018,train
+Can you how many times do the hands of a clock overlap in 24 hours thanks,reasoning,reasoning-067,train
+Quick one: describe the colours used in this poster please,multimodal,multimodal-086,train
+"Hey, write a Kotlin data class for a user profile",coding,coding-034,train
+"Which is heavier, a kilogram of feathers or a kilogram of steel, and why do people get it wrong",reasoning,reasoning-005,test
+Write a function to validate an email address in JavaScript,coding,coding-073,train
+How do I mock an API call in Jest,coding,coding-028,train
+Could you my React state update is not re-rendering the component,coding,coding-039,train
+Please write a short horror story set in a hostel asap,writing,writing-073,train
+Write a short story about a lighthouse keeper who finds a message in a bottle,writing,writing-083,train
+What is the population of Bangalore in 2026,search,search-072,train
+Compare this before and after photo of the room,multimodal,multimodal-035,train
+Quick one: what is the current repo rate set by the RBI please,search,search-071,train
+Write a diary entry from the perspective of a street dog,writing,writing-067,train
+Can you what is the deepest point in the ocean,search,search-038,train
+Who won the Formula 1 race last weekend,search,search-063,train
+Can you compose a heartfelt wedding toast for my best friend asap,writing,writing-035,train
+"Hey, how many bones are in the human body please",search,search-078,train
+What is the atomic number of tungsten,search,search-043,train
+I need help: what is the Sensex at right now please,search,search-031,train
+Can you how do I add a foreign key constraint in PostgreSQL,coding,coding-069,train
+Turn this technical documentation into a friendly user guide,writing,writing-025,train
+Please what is the logical fallacy in saying everyone believes it so it must be true asap,reasoning,reasoning-088,train
+Quick one: draft a toast for my parents' anniversary dinner?,writing,writing-036,train
+Quick one: check this screenshot of my code for bugs thanks,multimodal,multimodal-080,train
+What happened at the latest Apple WWDC keynote,search,search-022,train
+Can you what year does this vintage car photo look like asap,multimodal,multimodal-075,train
+Quick one: what is the capital of Kazakhstan,search,search-089,train
+Describe the scene in this painting in detail,multimodal,multimodal-064,train
+Write a regex that matches Indian phone numbers please,coding,coding-018,train
+Could you improve the flow and tone of this paragraph please,writing,writing-004,test
+Quick one: how to parse JSON in Rust with serde thanks,coding,coding-053,train
+Can you summarize this article in three paragraphs for a newsletter asap,writing,writing-077,train
+Can you write a blog post about the benefits of morning routines,writing,writing-081,train
+What is the newest Marvel movie released,search,search-015,test
+"Fix my CSS, the navbar overlaps the content on mobile",coding,coding-062,train
+Recent developments in fusion energy research,search,search-065,train
+Quick one: typeError: Cannot read properties of undefined (reading 'map') asap,coding,coding-005,test
+What are the symptoms of dengue fever please,search,search-039,train
+"Hey, which of these two logo designs looks more professional",multimodal,multimodal-010,test
+Draft an email to my professor asking for a deadline extension please,writing,writing-039,train
+Quick one: think about whether a company should open source its core product,reasoning,reasoning-063,train
+Can you what number when doubled and added to 5 gives 19.,reasoning,reasoning-026,train
+Can you think about whether a company should open source its core product,reasoning,reasoning-063,train
+Convert this Python 2 code to Python 3,coding,coding-074,train
+Quick one: find the nearest passport office in Bangalore,search,search-000,test
+Could you who invented the telephone?,search,search-046,train
+How do I read environment variables in Node.js,coding,coding-057,train
+"Can you if I flip a fair coin 10 times, what is the expected number of heads please",reasoning,reasoning-061,train
+What breed is the dog in this picture,multimodal,multimodal-021,train
+Quick one: implement a LRU cache in Python?,coding,coding-007,test
+Fix the indentation error in this code block,coding,coding-031,train
+Write a Swift function that sorts an array of structs by date,coding,coding-049,train
+Could you explain what is happening in this comic strip image.,multimodal,multimodal-037,train
+"Hey, read the serial number from this photo of my laptop",multimodal,multimodal-026,train
+"Hey, look up the opening hours of the Bangalore Palace.",search,search-067,train
+Quick one: how would you settle a dispute between two co-founders about equity please,reasoning,reasoning-049,train
+What is written on this whiteboard photo,multimodal,multimodal-053,train
+When did India gain independence?,search,search-041,train
+Write an op-ed on the future of remote work,writing,writing-020,train
+How do I use TypeScript generics with interfaces,coding,coding-077,train
+Quick one: prove that the sum of two even numbers is even thanks,reasoning,reasoning-035,train
+Please what is the height of the Statue of Unity asap,search,search-030,train
+Could you write unit tests for this login function using pytest,coding,coding-075,train
+Can you write a book blurb for a fantasy novel about a librarian mage,writing,writing-044,train
+Quick one: what is the longest river in Africa.,search,search-027,train
+Identify the landmark in this photo,multimodal,multimodal-047,train
+"My Streamlit app reruns the whole script on every click, how to cache",coding,coding-041,train
+"My SQL query is slow, how do I add and use an index?",coding,coding-029,train
+What year does this vintage car photo look like thanks,multimodal,multimodal-075,train
+Can you look at the picture and tell me what time the clock shows.,multimodal,multimodal-034,train
+What is the current price of Bitcoin,search,search-066,train
+Could you write a bash script that renames all .txt files to .md?,coding,coding-008,test
+Can you which country hosted the last G20 summit,search,search-017,test
+What does git rebase do and when should I use it,coding,coding-078,train
+I need help: write a formal invitation for our college tech fest,writing,writing-050,train
+Estimate how many piano tuners there are in Chicago,reasoning,reasoning-007,test
+"Hey, a rope ladder hangs over a ship, the tide rises 1 metre, how many rungs go under water.",reasoning,reasoning-044,train
+Write a product description for a handmade leather wallet asap,writing,writing-015,test
+Please turn this technical documentation into a friendly user guide thanks,writing,writing-025,train
+"Hey, what is wrong with this proof that 1 equals 2",reasoning,reasoning-019,train
+Identify the coin in this image and its country,multimodal,multimodal-014,test
+"Hey, write an Arduino sketch to blink an LED every 500 ms please",coding,coding-080,train
+Can you what is the current population of the world please,search,search-047,train
+I need help: write a motivational message for my team before the hackathon,writing,writing-074,train
+Could you transcribe the equation from this photo into LaTeX,multimodal,multimodal-024,train
+Please write a detailed proposal for a campus recycling program asap,writing,writing-006,test
+Draft a pitch email to a journalist about our app,writing,writing-001,test
+"Hey, what is the official language of Brazil asap",search,search-024,train
+Could you describe the scene in this painting in detail please,multimodal,multimodal-064,train
+Please write a welcome email sequence for new subscribers,writing,writing-000,test
+"Hey, a man walks 3 km north then 4 km east, how far is he from the start",reasoning,reasoning-033,train
+Can you derive the quadratic formula from completing the square,reasoning,reasoning-081,train
+Explain memory leaks in JavaScript closures,coding,coding-004,test
+Write a letter to my future self,writing,writing-075,train
+Write an engaging opening paragraph for a mystery novel thanks,writing,writing-072,train
+How many diagonals does a decagon have please,reasoning,reasoning-059,train
+Think through the trade-offs of a four-day work week,reasoning,reasoning-062,train
+Write a bedtime story for a five year old about a brave turtle,writing,writing-003,test
+I need help: write a bedtime story for a five year old about a brave turtle thanks,writing,writing-003,test
+What ingredients can you see in this fridge photo,multimodal,multimodal-056,train
+Write a complaint letter to the airline about lost luggage asap,writing,writing-047,train
+Write a Go HTTP server that returns hello world,coding,coding-063,train
+"A farmer has 17 sheep, all but 9 die, how many are left",reasoning,reasoning-011,test
+Latest news on the ISRO Gaganyaan mission,search,search-057,train
+How many states does India have,search,search-064,train
+Quick one: create a tagline and slogan for a bicycle rental startup please,writing,writing-024,train
+Can you write a Python script to rename files based on their creation date,coding,coding-040,train
+Quick one: write a fictional dialogue between two rival chefs thanks,writing,writing-080,train
+Can you write a cover letter for a marketing role at a fashion brand please,writing,writing-087,train
+Look at this floor plan image and estimate the room sizes,multimodal,multimodal-011,test
+Write a newsletter intro for our monthly community update,writing,writing-071,train
+Write a 300-word article on the history of chai?,writing,writing-021,train
+What emotion is the person in this picture showing,multimodal,multimodal-013,test
+Draft a two-paragraph bio for my Twitter profile,writing,writing-029,train
+What kind of rash is shown in this skin photo,multimodal,multimodal-082,train
+Could you what breed is the dog in this picture,multimodal,multimodal-021,train
+"I need help: my SQL query is slow, how do I add and use an index?",coding,coding-029,train
+Draft an email to my professor asking for a deadline extension,writing,writing-039,train
+If you have a 3 litre and a 5 litre jug how do you measure exactly 4 litres,reasoning,reasoning-064,train
+Look at this screenshot and tell me which button to click next,multimodal,multimodal-089,train
+"Hey, if all bloops are razzies and all razzies are lazzies, are all bloops lazzies.",reasoning,reasoning-079,train
+Please prove that the square root of 2 is irrational,reasoning,reasoning-022,train
+"Hey, write a formal invitation for our college tech fest please",writing,writing-050,train
+Explain what this lambda expression does,coding,coding-037,train
+Argue for and against a universal basic income,reasoning,reasoning-077,train
+What kind of rash is shown in this skin photo?,multimodal,multimodal-082,train
+"Can you if 3 workers build a wall in 6 days, how long do 9 workers take",reasoning,reasoning-073,train
+What is the latest version of Python,search,search-052,train
+Estimate how many tennis balls fit in a bus,reasoning,reasoning-032,train
+Quick one: what is wrong with this proof that 1 equals 2,reasoning,reasoning-019,train
+"Compare these two product photos, which has better lighting.",multimodal,multimodal-052,train
+"Hey, implement binary search in Go",coding,coding-061,train
+Please break down whether a startup should raise money now or bootstrap?,reasoning,reasoning-089,train
+How far is the moon from Earth thanks,search,search-011,test
+Create a compelling product launch email for our new sneaker?,writing,writing-060,train
+Please what are today's headlines about the stock market,search,search-088,train
+Evaluate whether it is worth doing a masters right after undergrad.,reasoning,reasoning-014,test
+What is the graph in this image plotting on the y axis,multimodal,multimodal-074,train
+I need help: what are the current RBI repo rate figures,search,search-055,train
+Can you help me write vows for my wedding?,writing,writing-053,train
+Could you what is the weather in Chennai tomorrow.,search,search-037,train
+Could you explain this Kubernetes YAML and why the pod is CrashLoopBackOff.,coding,coding-025,train
+Please write unit tests for this login function using pytest.,coding,coding-075,train
+Write a sonnet about the ocean please,writing,writing-076,train
+Add error handling to this fetch call,coding,coding-032,train
+Please describe what is in this image,multimodal,multimodal-039,train
+"My SQL query is slow, how do I add and use an index",coding,coding-029,train
+I need help: what is the newest Marvel movie released,search,search-015,test
+Convert this for loop into a list comprehension?,coding,coding-076,train
+Could you write a C function to check if a number is prime.,coding,coding-000,test
+What is the boiling point of ethanol,search,search-058,train
+Could you read the temperature from this thermostat photo.,multimodal,multimodal-032,train
+Please what number when doubled and added to 5 gives 19,reasoning,reasoning-026,train
+"Hey, write a short story about a lighthouse keeper who finds a message in a bottle?",writing,writing-083,train
+"I need help: a bat and a ball cost 1.10 in total, the bat costs one more than the ball, what does the ball cost.",reasoning,reasoning-085,train
+In how many years will a sum double at 10 percent simple interest.,reasoning,reasoning-069,train
+Suggest a caption for this sunset picture,multimodal,multimodal-029,train
+"Hey, draft a grant proposal abstract for a rural water project thanks",writing,writing-065,train
+Quick one: what is the make and model of the bike in this image please,multimodal,multimodal-025,train
+Quick one: write a haiku about coffee please,writing,writing-032,train
+What year does this vintage car photo look like,multimodal,multimodal-075,train
+Which piece is winning in this chessboard photo,multimodal,multimodal-017,test
+Can you how to use useState with an array of objects please,coding,coding-026,train
+Can you when does the IPL 2027 season start asap,search,search-079,train
+Quick one: draft a statement of purpose for a PhD in computer science,writing,writing-016,test
+"Hey, who is the founder of Infosys?",search,search-026,train
+Write an essay arguing that homework should be abolished,writing,writing-045,train
+"If it is 3 pm in London what time is it in Bangalore, reason it out",reasoning,reasoning-024,train
+Quick one: write an op-ed on the future of remote work,writing,writing-020,train
+Could you what does this error screenshot say and how do I fix it asap,multimodal,multimodal-055,train
+How do I center a div with flexbox,coding,coding-027,train
+"Calculate the area of a triangle with sides 5, 6 and 7",reasoning,reasoning-006,test
+Can you how do I center a div with flexbox asap,coding,coding-027,train
+Help me write a bio for my conference speaker profile.,writing,writing-059,train
+Quick one: what does this error screenshot say and how do I fix it thanks,multimodal,multimodal-055,train
+Can you what time does the Apple event start today asap,search,search-004,test
+What does git rebase do and when should I use it asap,coding,coding-078,train
+Who won the Nobel Prize in Physics this year.,search,search-018,train
+Draft a sponsorship request letter for our robotics club,writing,writing-034,train
+Could you write a Dockerfile for a Django project thanks,coding,coding-066,train
+Quick one: what is the melting point of gold,search,search-060,train
+Quick one: explain the trolley problem and the main positions on it,reasoning,reasoning-003,test
+Please write a podcast episode description about productivity habits,writing,writing-079,train
+How would you fairly divide a cake among three people.,reasoning,reasoning-045,train
+Implement Dijkstra's algorithm in C++,coding,coding-017,test
+"Please a farmer has 17 sheep, all but 9 die, how many are left asap",reasoning,reasoning-011,test
+Please what is the currency of Vietnam,search,search-059,train
+Has the new Tamil Nadu EV policy been announced yet,search,search-070,train
+Write a Python generator that yields Fibonacci numbers,coding,coding-020,train
+"Hey, write a 1000-word essay on climate feedback loops please",writing,writing-030,train
+Quick one: what year did India win its first cricket World Cup thanks,search,search-008,test
+Write a welcome email sequence for new subscribers,writing,writing-000,test
+"If I invest 10000 at 8 percent compounded annually, how much after 5 years",reasoning,reasoning-047,train
+"Could you which is heavier, a kilogram of feathers or a kilogram of steel, and why do people get it wrong.",reasoning,reasoning-005,test
+How many players are on a kabaddi team please,search,search-062,train
+I need help: when was the Eiffel Tower built thanks,search,search-012,test
+Please what is the minimum number of colours needed to colour any map.,reasoning,reasoning-002,test
+Create a responsive grid layout with Tailwind,coding,coding-086,train
+What are the top trending movies on Netflix India this week asap,search,search-016,test
+Please write a scene where two old friends meet after ten years asap,writing,writing-064,train
+Write a function that reverses a linked list in Java,coding,coding-060,train
+"Hey, who won the Oscar for best picture this year?",search,search-032,train
+I need help: how do I catch exceptions in Python and log them,coding,coding-044,train
+Can you make this paragraph more concise without losing meaning,writing,writing-041,train
+Could you identify the bird in this image asap,multimodal,multimodal-084,train
+"Which is a better deal, 30 percent off or buy two get one free.",reasoning,reasoning-071,train
+I need help: what is the current price of Bitcoin,search,search-066,train
+I need help: describe the body language of the people in this meeting photo,multimodal,multimodal-023,train
+"Hey, write a Python class for a bank account with deposit and withdraw thanks",coding,coding-046,train
+Could you convert this Python 2 code to Python 3 please,coding,coding-074,train
+Quick one: write a travel blog entry about a weekend in Goa thanks,writing,writing-038,train
+What are the symptoms of dengue fever,search,search-039,train
+Write a description for a YouTube video about budget travel,writing,writing-068,train
+"Hey, write a 1000-word essay on climate feedback loops?",writing,writing-030,train
+Write a PHP function that connects to MySQL using PDO asap,coding,coding-058,train
+What is the current status of the Bangalore suburban rail project,search,search-086,train
+ModuleNotFoundError: No module named numpy even after pip install,coding,coding-010,test
+Who won the Oscar for best picture this year,search,search-032,train
+Write a paragraph describing autumn in the mountains,writing,writing-009,test
+Could you which of these two selfies should I use for my profile?,multimodal,multimodal-027,train
+Quick one: explain the difference between an interface and an abstract class,coding,coding-019,train
+I need help: when is Diwali this year,search,search-082,train
+What time does the Apple event start today asap,search,search-004,test
+I need help: which of these two logo designs looks more professional,multimodal,multimodal-010,test
+"I need help: fix my CSS, the navbar overlaps the content on mobile",coding,coding-062,train
+Find the sum of all integers from 1 to 200,reasoning,reasoning-080,train
+Why does my async function return a Promise instead of the value thanks,coding,coding-083,train
+Could you explain the difference between async and await in JavaScript.,coding,coding-085,train
+Compose a rap verse about debugging at 3 am,writing,writing-055,train
+How many ways can 5 people sit in a row,reasoning,reasoning-078,train
+What does this error screenshot say and how do I fix it,multimodal,multimodal-055,train
+"Can you which is heavier, a kilogram of feathers or a kilogram of steel, and why do people get it wrong",reasoning,reasoning-005,test
+Draft a resignation letter that keeps things friendly,writing,writing-078,train
+Please which cable in this photo goes to the router,multimodal,multimodal-004,test
+Find the typo in this screenshot of my slide,multimodal,multimodal-087,train
+Turn this photographed math problem into text and solve it,multimodal,multimodal-041,train
+"Can you if today is Tuesday, what day is it 100 days from now",reasoning,reasoning-030,train
+Please analyze the layout of this website screenshot,multimodal,multimodal-046,train
+Expand this outline into a full article on sleep hygiene,writing,writing-088,train
+Could you set up ESLint and Prettier in a Next.js project please,coding,coding-089,train
+"If it takes 5 machines 5 minutes to make 5 widgets, how long for 100 machines to make 100 widgets",reasoning,reasoning-039,train
+Draft a grant proposal abstract for a rural water project,writing,writing-065,train
+Write a sales pitch script for cold calling gyms?,writing,writing-049,train
+Evaluate the argument that AI will take all jobs thanks,reasoning,reasoning-074,train
+"Could you i have 3 red and 5 blue socks in a drawer, how many must I pull to guarantee a pair thanks",reasoning,reasoning-054,train
+What happened at the latest Apple WWDC keynote please,search,search-022,train
+Write a case study about how our team reduced churn,writing,writing-052,train
+Quick one: explain the circuit in this photo,multimodal,multimodal-036,train
+Explain the meme in this image thanks,multimodal,multimodal-069,train
+Who is the president of France,search,search-077,train
+"Please calculate the area of a triangle with sides 5, 6 and 7?",reasoning,reasoning-006,test
+Write an Instagram caption for my graduation photo asap,writing,writing-057,train
+"Hey, what is the melting point of gold thanks",search,search-060,train
+What is the current repo rate set by the RBI,search,search-071,train
+Please draft meeting minutes from these notes asap,writing,writing-018,train
+I need help: write a short horror story set in a hostel,writing,writing-073,train
+"Hey, which is the better strategy in rock paper scissors against a predictable opponent",reasoning,reasoning-048,train
+Please estimate how many tennis balls fit in a bus?,reasoning,reasoning-032,train
+"Hey, caption this image for Instagram please",multimodal,multimodal-018,train
+Write a Java program to find duplicate elements in an array,coding,coding-087,train
+I need help: look at this floor plan image and estimate the room sizes thanks,multimodal,multimodal-011,test
+What time does the Apple event start today,search,search-004,test

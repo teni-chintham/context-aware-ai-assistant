@@ -1,0 +1,68 @@
+{
+  "sessions": [
+    [
+      "Hi, my name is Arjun Mehta and I live in Koramangala, Bangalore.",
+      "I work as a data engineer at a fintech called PayLoop.",
+      "My favourite programming language is Rust, and I use Neovim as my editor.",
+      "Can you give me a quick tip for writing faster SQL joins?",
+      "I have a golden retriever called Bruno who is 4 years old.",
+      "Thanks, that helps."
+    ],
+    [
+      "I am training for the Bangalore half marathon in November.",
+      "I usually run in the mornings at Cubbon Park.",
+      "My sister Kavya is getting married in December in Mysore.",
+      "What is a good stretching routine after a long run?",
+      "I prefer vegetarian food and I am allergic to peanuts.",
+      "I drive a blue Honda City and my car number ends in 4471."
+    ],
+    [
+      "I study part time for a masters in data science at BITS Pilani.",
+      "My manager's name is Devika and our team is called Ledger Core.",
+      "I want to switch to a machine learning role next year.",
+      "How should I structure a resume for ML roles?",
+      "I usually drink filter coffee, never tea.",
+      "My birthday is on 14 February and I was born in 1998."
+    ],
+    [
+      "I use a MacBook Pro with 32 GB of RAM for work.",
+      "My favourite movie is Interstellar and my favourite band is Radiohead.",
+      "I have a weekly one-on-one with Devika every Thursday at 3 pm.",
+      "Remember that my gym membership at Cult Fit expires on 30 October.",
+      "I am learning Kannada using an app called Bhasha.",
+      "Explain the difference between a data lake and a data warehouse."
+    ]
+  ],
+  "questions": [
+    {"q": "What is my name?", "gold": ["Arjun"]},
+    {"q": "Where do I live?", "gold": ["Koramangala", "Bangalore"]},
+    {"q": "What company do I work for?", "gold": ["PayLoop"]},
+    {"q": "What is my job title?", "gold": ["data engineer"]},
+    {"q": "Which programming language do I like the most?", "gold": ["Rust"]},
+    {"q": "Which editor do I use?", "gold": ["Neovim"]},
+    {"q": "What is my dog's name?", "gold": ["Bruno"]},
+    {"q": "How old is my dog?", "gold": ["4"]},
+    {"q": "What race am I training for?", "gold": ["half marathon"]},
+    {"q": "Where do I usually run?", "gold": ["Cubbon"]},
+    {"q": "When and where is my sister's wedding?", "gold": ["December", "Mysore"]},
+    {"q": "What is my sister's name?", "gold": ["Kavya"]},
+    {"q": "Do I eat meat?", "gold": ["vegetarian"]},
+    {"q": "What am I allergic to?", "gold": ["peanut"]},
+    {"q": "What car do I drive?", "gold": ["Honda City"]},
+    {"q": "Where am I doing my masters?", "gold": ["BITS"]},
+    {"q": "Who is my manager?", "gold": ["Devika"]},
+    {"q": "What is my team called?", "gold": ["Ledger Core"]},
+    {"q": "What role do I want to move into next year?", "gold": ["machine learning", "ML"]},
+    {"q": "Do I prefer coffee or tea?", "gold": ["coffee"]},
+    {"q": "When is my birthday?", "gold": ["14 February", "February 14", "Feb"]},
+    {"q": "What year was I born?", "gold": ["1998"]},
+    {"q": "How much RAM does my laptop have?", "gold": ["32"]},
+    {"q": "What is my favourite movie?", "gold": ["Interstellar"]},
+    {"q": "What is my favourite band?", "gold": ["Radiohead"]},
+    {"q": "When is my one-on-one with my manager?", "gold": ["Thursday"]},
+    {"q": "When does my gym membership expire?", "gold": ["30 October", "October 30", "October"]},
+    {"q": "Which language am I learning?", "gold": ["Kannada"]},
+    {"q": "Which app am I using to learn a language?", "gold": ["Bhasha"]},
+    {"q": "What are the last four digits of my car number?", "gold": ["4471"]}
+  ]
+}
