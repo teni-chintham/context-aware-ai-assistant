@@ -280,3 +280,107 @@ streamlit run app.py --server.headless true                                  # s
 
 Raw console logs for every step were kept in `.runlogs/` (`setup.log`, `smoke.log`,
 `full.log`, `streamlit.log`, `ollama-serve.log`).
+
+---
+
+# Task 2 — per-task benchmark, demo screenshots, GitHub
+
+Date: 2026-09-23, same machine and same small-model Ollama pool as Task 1.
+Full detail in `.runlogs/task2_status.md`; this is the summary for the report.
+
+| Step | Result |
+|---|---|
+| 1 Tests | PASS — 10/10 (`.runlogs/pytest.txt`), incl. the new `test_task_bench_graders` |
+| 2 Per-task benchmark | PASS — 200/200 calls, exit 0 |
+| 3 Demo screenshots | PASS — 6/6 at 1440x900 in `docs/screenshots/` |
+| 4 GitHub | PASS — pushed to a **private** repo |
+| 5 Status file | PASS — `.runlogs/task2_status.md` + this section |
+
+Repo: **https://github.com/teni-chintham/context-aware-ai-assistant** (private, `main`,
+commit `e7391b1`, 68 files).
+
+## Per-task benchmark
+
+50 tasks (10 per intent), each phrased 3 ways; every task answered by all 4 models at
+temperature 0. 200 model calls, 150 prompts classified.
+
+| System | Tasks correct (of 50) |
+|---|---|
+| **routed (classifier + router)** | **0.840** |
+| router with true intent | 0.840 |
+| router with measured priors | 0.820 |
+| best model per intent (hindsight) | 0.880 |
+| any model correct (upper bound) | 0.880 |
+| always GPT | 0.780 |
+| always Claude | 0.740 |
+| always Sonar | 0.660 |
+| always Gemini | 0.500 |
+
+**Routing beats every fixed model.** +6.0 points over the best single model (GPT), and it
+captures 95.5% of the oracle ceiling (0.840 of 0.880). It also exactly equals "router with
+true intent", so the classifier's 5 misroutes out of 150 cost nothing in answer accuracy.
+
+Answer accuracy by model x task type (this is the evidence that specialisation is real):
+
+| Model (backing) | coding | writing | search | reasoning | multimodal | overall | mean latency |
+|---|---|---|---|---|---|---|---|
+| GPT (`qwen2.5-coder:3b`) | 1.0 | 1.0 | 1.0 | 0.9 | 0.0 | 0.780 | 4.6 s |
+| Claude (`llama3.2:3b`) | 0.9 | 0.9 | 1.0 | 0.9 | 0.0 | 0.740 | 3.9 s |
+| Gemini (`moondream`) | 0.8 | 0.6 | 0.6 | 0.0 | **0.5** | 0.500 | 3.3 s |
+| Sonar (`llama3.2:1b`) | 0.7 | 0.9 | 0.9 | 0.8 | 0.0 | 0.660 | 3.2 s |
+
+Routing quality: intent accuracy **0.933** text-only, **0.967** once the "image attached =>
+multimodal" pipeline rule applies; 5 misroutes in 150; same routing decision for all three
+phrasings of a task 90% of the time. By phrasing: direct 1.00, verbose 0.98, **casual 0.82** —
+casual phrasing is the classifier's weak spot. Routed mean latency 4.31 s/task.
+
+Figures: `results/tb_accuracy_heatmap.png`, `tb_systems.png`, `tb_confusion.png`,
+`tb_phrasing.png`. Raw answers: `results/task_bench_raw.jsonl`.
+
+## Grader audit
+
+**No grader bug found; no grader code changed; no re-grade needed.** Audited the 10 random
+rows required, plus an automated false-positive/false-negative scan of all 200 rows, plus
+every writing/search failure and every multimodal row by hand. All 5 rows the scan flagged
+were genuine model errors (missing `import re`; a `word_freq` that skips capitalized words;
+models that genuinely answered 50 and 10).
+
+One judgment call left deliberately unchanged: `write-10` is graded FAIL for Claude and
+Sonar, which wrote a correct note beginning "Dear" but prefixed it with "Here is a short
+thank-you note:". The `starts` grader checks the whole output. Loosening it would lift
+scores by weakening the instruction-following property under test, so it stands.
+
+## Honest findings
+
+- **Multimodal is the weak point: routed accuracy 0.50.** The three text-only models
+  correctly return HTTP 400 on image tasks (exactly what the benchmark should show), but
+  `moondream` itself only manages 5/10. Verified this is a model limitation, not a harness
+  bug: the same image with "Describe this image." yields a perfect *"a large, red circle...
+  white background"*, while the benchmark's "What color is the shape? Answer in one word."
+  yields the garbage token `'urn'` — identically across `/api/chat` and `/api/generate`,
+  with and without the system prompt. Task prompts are off-limits, so the 0.50 stands.
+- **Measured priors are worse than hand-written priors** (0.820 vs 0.840): using measured
+  accuracy/latency over-rewards Sonar's speed and sends writing and reasoning to the 1B model.
+- **Model D declines out-of-corpus questions** — visible in screenshots `02` and `05`. The
+  RAG system prompt ("Answer ONLY from it") is working as designed, but it means Model D
+  behaves as a document assistant rather than a general chatbot.
+- Zero unexpected errors in 200 calls: `errors_by_model` is exactly 10 for each text-only
+  model (the 10 multimodal tasks) and 0 for the vision model.
+
+## Code fix
+
+One pre-existing source file was edited in Task 2. `assistant/memory.py`:
+
+```python
+self.db = sqlite3.connect(db_path or config.MEMORY_DB, check_same_thread=False)
+```
+
+Without it **every chat turn in the Streamlit demo crashed** with "SQLite objects created
+in a thread can only be used in that same thread" — Streamlit runs each rerun on a new
+thread while the `Assistant` and its connection live in `st.session_state`. CPython's
+`sqlite3` is built in serialized mode, so sharing the connection is safe. Tests re-run
+after the change: still 10/10.
+
+The remaining Task 2 fixes were all in the new, self-written `scripts/make_screenshots.py`
+(react-aria slider handling, expander matching, per-shot session reset) and are documented
+in `.runlogs/task2_status.md`.
